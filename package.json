@@ -23,6 +23,8 @@
     "test:e2e": "jest --config ./test/jest-e2e.json",
 
     "//-4-deployment": "──────── BUILD & DEPLOYMENT · production ────────",
+    "postinstall": "prisma generate",
+    "prebuild": "prisma generate",
     "build": "nest build",
     "start:prod": "node dist/src/main",
 
