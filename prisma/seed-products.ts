@@ -1,17 +1,16 @@
 /**
- * London Tea Exchange — Category & Product Seeder
+ * Ecom — Fashion Category, Brand & Product Seeder
  *
  * Usage (standalone):  tsx prisma/seed-products.ts
  * Usage (composed):    import { seedProducts } from './seed-products'
  *                      await seedProducts(prisma)
  *
  * Seeding strategy:
- *   1. Delete all dependent rows first (FK order), then products, then categories.
- *   2. Upsert the "London Tea Exchange" brand  (Product.brandId is non-nullable).
- *   3. Upsert a "Box" unit                     (optional but cleaner for admin UI).
- *   4. Create the 4 top-level navigation categories.
- *   5. Create the 9 "Assorted Collections" products, each with one default
- *      ProductVariant priced at 2 900 BDT (Decimal(10,2)).
+ *   1. Delete all dependent rows first (FK order), then products, categories, brands.
+ *   2. Upsert multiple fashion brands.
+ *   3. Upsert unit (PCS).
+ *   4. Create fashion categories (Men, Women, Kids, Accessories, Footwear).
+ *   5. Create products across categories with variants and BDT pricing.
  */
 
 import 'dotenv/config';
@@ -31,195 +30,203 @@ function toSlug(name: string): string {
     .replace(/\s+/g, '-');
 }
 
-/**
- * Generates a compact SKU from the product name.
- * e.g. "Assorted Classic Collection" → "LTE-CC-001"
- */
-function skuFromName(name: string, index: number): string {
+function skuFromName(brandInitial: string, name: string, index: number): string {
   const initials = name
-    .replace(/assorted/i, '') // strip repeated prefix
-    .trim()
     .split(/\s+/)
     .map((w) => w[0].toUpperCase())
     .join('');
-  return `LTE-${initials}-${String(index + 1).padStart(3, '0')}`;
+  return `${brandInitial}-${initials}-${String(index + 1).padStart(3, '0')}`;
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Data definitions
 // ─────────────────────────────────────────────────────────────────────────────
 
+const BRANDS = [
+  { name: 'Zara',    slug: 'zara'   },
+  { name: 'H&M',     slug: 'hm'     },
+  { name: "Levi's",  slug: 'levis'  },
+  { name: 'Nike',    slug: 'nike'   },
+  { name: 'Adidas',  slug: 'adidas' },
+  { name: 'Mango',   slug: 'mango'  },
+] as const;
+
 const CATEGORIES = [
-  { name: 'Assorted Collections', slug: 'assorted-collections' },
-  { name: 'Tea Book Collections', slug: 'tea-book-collections' },
-  { name: 'Loose Leaf Tea',        slug: 'loose-leaf-tea'        },
-  { name: 'Elegant Gifts',         slug: 'elegant-gifts'         },
+  { name: "Men's Fashion",   slug: 'mens-fashion'   },
+  { name: "Women's Fashion", slug: 'womens-fashion' },
+  { name: "Kids' Fashion",   slug: 'kids-fashion'   },
+  { name: 'Accessories',     slug: 'accessories'    },
+  { name: 'Footwear',        slug: 'footwear'       },
 ] as const;
 
-/**
- * The 9 products visible in the "Assorted Collections" grid on the UI screenshot.
- * All share the same baseline price of 2 900 BDT.
- */
-const ASSORTED_PRODUCTS = [
-  { name: 'Assorted Classic Collection',     imageFile: 'classic-collection.jpg'     },
-  { name: 'Assorted Royal Collection',       imageFile: 'royal-collection.jpg'       },
-  { name: 'Assorted Black Tea Collection',   imageFile: 'black-tea-collection.jpg'   },
-  { name: 'Assorted Oolong Collection',      imageFile: 'oolong-collection.jpg'      },
-  { name: 'Assorted Super Fruit Collection', imageFile: 'super-fruit-collection.jpg' },
-  { name: 'Assorted Festive Collection',     imageFile: 'festive-collection.jpg'     },
-  { name: 'Assorted Wellness Collection',    imageFile: 'wellness-collection.jpg'    },
-  { name: 'Assorted Wild Meadows Collection',imageFile: 'wild-meadows-collection.jpg'},
-  { name: 'Assorted Wild Orchard Collection',imageFile: 'wild-orchard-collection.jpg'},
-] as const;
+const DEFAULT_STOCK = 100;
 
-const BASE_PRICE   = 2900; // BDT
-const DEFAULT_STOCK = 50;
+const PRODUCTS = [
+  // ── Men's Fashion ──────────────────────────────────────────────────────────
+  { name: 'Classic Slim Fit Shirt',         category: 'mens-fashion',   brand: 'zara',   price: 1200, imageFile: 'slim-fit-shirt.jpg'        },
+  { name: 'Casual Chino Pants',             category: 'mens-fashion',   brand: 'hm',     price: 1500, imageFile: 'chino-pants.jpg'           },
+  { name: 'Denim Jacket',                   category: 'mens-fashion',   brand: 'levis',  price: 3500, imageFile: 'denim-jacket.jpg'          },
+  { name: 'Graphic Tee Collection',         category: 'mens-fashion',   brand: 'hm',     price:  800, imageFile: 'graphic-tee.jpg'           },
+  { name: 'Formal Blazer',                  category: 'mens-fashion',   brand: 'zara',   price: 4500, imageFile: 'formal-blazer.jpg'         },
+  { name: 'Slim Fit Jeans',                 category: 'mens-fashion',   brand: 'levis',  price: 2200, imageFile: 'slim-fit-jeans.jpg'        },
+
+  // ── Women's Fashion ────────────────────────────────────────────────────────
+  { name: 'Floral Wrap Dress',              category: 'womens-fashion', brand: 'mango',  price: 2500, imageFile: 'floral-wrap-dress.jpg'     },
+  { name: 'High-Waist Trousers',            category: 'womens-fashion', brand: 'zara',   price: 1800, imageFile: 'high-waist-trousers.jpg'   },
+  { name: 'Oversized Blazer',               category: 'womens-fashion', brand: 'mango',  price: 3800, imageFile: 'womens-blazer.jpg'         },
+  { name: 'Crop Top Set',                   category: 'womens-fashion', brand: 'hm',     price: 1200, imageFile: 'crop-top-set.jpg'          },
+  { name: 'Midi Skirt',                     category: 'womens-fashion', brand: 'zara',   price: 1600, imageFile: 'midi-skirt.jpg'            },
+  { name: 'Knit Cardigan',                  category: 'womens-fashion', brand: 'mango',  price: 2200, imageFile: 'knit-cardigan.jpg'         },
+
+  // ── Kids' Fashion ──────────────────────────────────────────────────────────
+  { name: 'Kids Cotton T-Shirt Pack',       category: 'kids-fashion',   brand: 'hm',     price:  900, imageFile: 'kids-tshirt-pack.jpg'      },
+  { name: 'Kids Denim Shorts',              category: 'kids-fashion',   brand: 'levis',  price: 1100, imageFile: 'kids-denim-shorts.jpg'     },
+  { name: 'Kids Hooded Sweatshirt',         category: 'kids-fashion',   brand: 'adidas', price: 1400, imageFile: 'kids-hoodie.jpg'           },
+
+  // ── Accessories ────────────────────────────────────────────────────────────
+  { name: 'Leather Belt',                   category: 'accessories',    brand: 'zara',   price:  900, imageFile: 'leather-belt.jpg'          },
+  { name: 'Canvas Tote Bag',                category: 'accessories',    brand: 'hm',     price: 1100, imageFile: 'canvas-tote-bag.jpg'       },
+  { name: 'Classic Wrist Watch',            category: 'accessories',    brand: 'mango',  price: 5500, imageFile: 'wrist-watch.jpg'           },
+  { name: 'Polarized Sunglasses',           category: 'accessories',    brand: 'zara',   price: 1800, imageFile: 'sunglasses.jpg'            },
+  { name: 'Knitted Scarf',                  category: 'accessories',    brand: 'hm',     price:  700, imageFile: 'knitted-scarf.jpg'         },
+
+  // ── Footwear ───────────────────────────────────────────────────────────────
+  { name: 'Air Running Sneakers',           category: 'footwear',       brand: 'nike',   price: 7500, imageFile: 'air-running-sneakers.jpg'  },
+  { name: 'Classic Stan Smith',             category: 'footwear',       brand: 'adidas', price: 6800, imageFile: 'stan-smith.jpg'            },
+  { name: 'Leather Chelsea Boots',          category: 'footwear',       brand: 'zara',   price: 5200, imageFile: 'chelsea-boots.jpg'         },
+  { name: 'Casual Canvas Shoes',            category: 'footwear',       brand: 'adidas', price: 3200, imageFile: 'canvas-shoes.jpg'          },
+  { name: 'Sport Training Shoes',           category: 'footwear',       brand: 'nike',   price: 8200, imageFile: 'training-shoes.jpg'        },
+] as const;
 
 // ─────────────────────────────────────────────────────────────────────────────
-// Main exported seeder  (called by both standalone mode and seed.ts)
+// Main exported seeder
 // ─────────────────────────────────────────────────────────────────────────────
 
 export async function seedProducts(prisma: PrismaClient): Promise<void> {
-  console.log('🍵 [ProductSeeder] Starting London Tea Exchange product seed...');
+  console.log('🛍️  [ProductSeeder] Starting Ecom Fashion product seed...');
 
   // ── Step 1: Clear existing data (FK dependency order) ─────────────────────
   console.log('\n🗑️  [ProductSeeder] Clearing existing product data...');
 
-  // Leaf-level relations first
   await prisma.inventoryLog.deleteMany({});
   console.log('   ✓ inventory_logs');
-
   await prisma.productVariantAttribute.deleteMany({});
   console.log('   ✓ product_variant_attributes');
-
   await prisma.productVariantMedia.deleteMany({});
   console.log('   ✓ product_variant_media');
-
   await prisma.cartItem.deleteMany({});
   console.log('   ✓ cart_items');
-
   await prisma.wholesaleOrderRequestItem.deleteMany({});
   console.log('   ✓ wholesale_order_request_items');
-
   await prisma.orderItem.deleteMany({});
   console.log('   ✓ order_items');
-
-  // Mid-level
   await prisma.productVariant.deleteMany({});
   console.log('   ✓ product_variants');
-
   await prisma.productMedia.deleteMany({});
   console.log('   ✓ product_media');
-
   await prisma.discountProduct.deleteMany({});
   console.log('   ✓ discount_products');
-
   await prisma.wishlist.deleteMany({});
   console.log('   ✓ wishlists');
-
   await prisma.review.deleteMany({});
   console.log('   ✓ reviews');
-
-  // Root tables
   await prisma.product.deleteMany({});
   console.log('   ✓ products');
-
   await prisma.category.deleteMany({});
   console.log('   ✓ categories');
+  await prisma.brand.deleteMany({});
+  console.log('   ✓ brands');
 
   console.log('✅ [ProductSeeder] Existing data cleared.\n');
 
-  // ── Step 2: Upsert Brand ──────────────────────────────────────────────────
-  // Product.brandId is required (non-nullable), so we always need a brand row.
-  console.log('🏷️  [ProductSeeder] Upserting brand...');
+  // ── Step 2: Create Brands ──────────────────────────────────────────────────
+  console.log('🏷️  [ProductSeeder] Creating fashion brands...');
 
-  const brand = await prisma.brand.upsert({
-    where:  { slug: 'london-tea-exchange' },
-    update: { name: 'London Tea Exchange' },
-    create: { name: 'London Tea Exchange', slug: 'london-tea-exchange', logoUrl: null },
-  });
+  const brandMap: Record<string, string> = {}; // slug → id
 
-  console.log(`   ✓ Brand: "${brand.name}" (id: ${brand.id})\n`);
+  for (const b of BRANDS) {
+    const brand = await prisma.brand.upsert({
+      where:  { slug: b.slug },
+      update: { name: b.name },
+      create: { name: b.name, slug: b.slug, logoUrl: null },
+    });
+    brandMap[b.slug] = brand.id;
+    console.log(`   ✓ "${brand.name}"`);
+  }
+
+  console.log();
 
   // ── Step 3: Upsert Unit ───────────────────────────────────────────────────
-  // unitId is nullable on Product, but assigning a unit makes admin UI cleaner.
   console.log('📏 [ProductSeeder] Upserting unit...');
 
   const unit = await prisma.unit.upsert({
-    where:  { abbreviation: 'BOX' },
-    update: { name: 'Box' },
+    where:  { abbreviation: 'PCS' },
+    update: { name: 'Pieces' },
     create: {
-      name:         'Box',
-      abbreviation: 'BOX',
+      name:         'Pieces',
+      abbreviation: 'PCS',
       factor:       1,
       isActive:     true,
     },
   });
 
-  console.log(`   ✓ Unit: "${unit.name}" (abbreviation: ${unit.abbreviation})\n`);
+  console.log(`   ✓ "${unit.name}" (${unit.abbreviation})\n`);
 
   // ── Step 4: Create Categories ─────────────────────────────────────────────
-  console.log('📁 [ProductSeeder] Creating categories...');
+  console.log('📁 [ProductSeeder] Creating fashion categories...');
 
-  const createdCategories = await Promise.all(
-    CATEGORIES.map((cat) =>
-      prisma.category.create({
-        data: { name: cat.name, slug: cat.slug, imageUrl: null },
-      }),
-    ),
-  );
+  const categoryMap: Record<string, string> = {}; // slug → id
 
-  createdCategories.forEach((cat) =>
-    console.log(`   ✓ "${cat.name}" (slug: ${cat.slug})`),
-  );
-
-  const assortedCategory = createdCategories.find(
-    (c) => c.slug === 'assorted-collections',
-  );
-
-  if (!assortedCategory) {
-    // Should never happen given the static CATEGORIES array above.
-    throw new Error(
-      '[ProductSeeder] FATAL: "assorted-collections" category row not found after insert.',
-    );
+  for (const cat of CATEGORIES) {
+    const created = await prisma.category.create({
+      data: { name: cat.name, slug: cat.slug, imageUrl: null },
+    });
+    categoryMap[cat.slug] = created.id;
+    console.log(`   ✓ "${created.name}"`);
   }
 
-  console.log(`\n   ↳ Assorted Collections id: ${assortedCategory.id}\n`);
+  console.log();
 
   // ── Step 5: Create Products + default Variants ───────────────────────────
-  console.log(
-    `📦 [ProductSeeder] Creating ${ASSORTED_PRODUCTS.length} products (price: ${BASE_PRICE} BDT)...\n`,
-  );
+  console.log(`📦 [ProductSeeder] Creating ${PRODUCTS.length} fashion products...\n`);
 
-  for (let i = 0; i < ASSORTED_PRODUCTS.length; i++) {
-    const { name, imageFile } = ASSORTED_PRODUCTS[i];
-    const slug = toSlug(name);
-    const sku  = skuFromName(name, i);
+  for (let i = 0; i < PRODUCTS.length; i++) {
+    const p         = PRODUCTS[i];
+    const slug      = toSlug(p.name);
+    const brandInitial = p.brand.slice(0, 3).toUpperCase();
+    const sku       = skuFromName(brandInitial, p.name, i);
+    const brandId   = brandMap[p.brand];
+    const categoryId = categoryMap[p.category];
+    const brandName  = BRANDS.find((b) => b.slug === p.brand)?.name ?? p.brand;
+
+    if (!brandId || !categoryId) {
+      console.warn(`   ⚠️  Skipping "${p.name}" — missing brand or category`);
+      continue;
+    }
 
     await prisma.product.create({
       data: {
-        name,
+        name:            p.name,
         slug,
-        description:     `${name} — a premium curated experience box from London Tea Exchange, thoughtfully assembled for tea enthusiasts.`,
+        description:     `${p.name} — a premium fashion piece from ${brandName}, crafted for style and comfort.`,
         status:          'active',
-        metaTitle:       name,
-        metaDescription: `Shop the ${name} from London Tea Exchange. A premium gift box for tea lovers.`,
-        metaKeywords:    `london tea exchange, ${slug}, assorted tea, tea gift box`,
+        metaTitle:       p.name,
+        metaDescription: `Shop ${p.name} at Ecom. Premium fashion at the best price.`,
+        metaKeywords:    `ecom, fashion, ${slug}, ${p.category}`,
 
-        brandId:    brand.id,
-        categoryId: assortedCategory.id,
-        unitId:     unit.id,
+        brandId,
+        categoryId,
+        unitId: unit.id,
 
-        // Featured image via the central Media + ProductMedia system.
         media: {
           create: [
             {
               isFeatured: true,
-              sortOrder: 0,
+              sortOrder:  0,
               media: {
                 create: {
-                  url: `/products/${imageFile}`,
-                  type: 'image',
+                  url:      `/products/${p.imageFile}`,
+                  type:     'image',
                   provider: 'local',
                 },
               },
@@ -227,12 +234,11 @@ export async function seedProducts(prisma: PrismaClient): Promise<void> {
           ],
         },
 
-        // Each product ships with exactly one default variant that carries price/stock
         variants: {
           create: [
             {
               sku,
-              price:               BASE_PRICE,
+              price:               p.price,
               cost:                null,
               stockQuantity:       DEFAULT_STOCK,
               stockAlertThreshold: 10,
@@ -243,22 +249,20 @@ export async function seedProducts(prisma: PrismaClient): Promise<void> {
       },
     });
 
-    console.log(`   ✓ [${i + 1}/${ASSORTED_PRODUCTS.length}] "${name}"  (sku: ${sku})`);
+    console.log(`   ✓ [${i + 1}/${PRODUCTS.length}] "${p.name}"  (sku: ${sku}, price: ${p.price} BDT)`);
   }
 
   // ── Summary ───────────────────────────────────────────────────────────────
-  console.log('\n🎉 [ProductSeeder] Seeding complete!');
+  console.log('\n🎉 [ProductSeeder] Fashion seeding complete!');
   console.log('   📊 Summary:');
-  console.log(`      Categories : ${createdCategories.length}`);
-  console.log(`      Products   : ${ASSORTED_PRODUCTS.length}`);
-  console.log(`      Variants   : ${ASSORTED_PRODUCTS.length} (1 default per product)`);
-  console.log(`      Base price : ${BASE_PRICE} BDT`);
-  console.log(`      Stock/item : ${DEFAULT_STOCK} units\n`);
+  console.log(`      Brands     : ${BRANDS.length}`);
+  console.log(`      Categories : ${CATEGORIES.length}`);
+  console.log(`      Products   : ${PRODUCTS.length}`);
+  console.log(`      Variants   : ${PRODUCTS.length} (1 default per product)\n`);
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Standalone execution guard
-// tsx prisma/seed-products.ts
 // ─────────────────────────────────────────────────────────────────────────────
 
 async function main() {
@@ -280,3 +284,5 @@ async function main() {
 if (require.main === module) {
   void main();
 }
+
+

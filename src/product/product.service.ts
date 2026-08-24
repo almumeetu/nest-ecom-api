@@ -124,7 +124,7 @@ export class ProductService {
     if (query.categoryId) where.categoryId = query.categoryId;
     if (query.status) where.status = query.status;
 
-    const [data, total] = await this.prisma.$transaction([
+    const [data, total] = await Promise.all([
       this.prisma.product.findMany({
         where,
         include: productInclude,

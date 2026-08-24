@@ -53,7 +53,7 @@ async function main() {
     console.log('\n📋 Seeding sections...');
     const sectionResult = await seedSections();
 
-    console.log('\n🍵 Seeding London Tea Exchange categories & products...');
+    console.log('\n🛒 Seeding Ecom categories & products...');
     await seedProducts(prisma);
 
     console.log('\n🎉 All seeding completed successfully!');

@@ -18,8 +18,8 @@ export const ADMIN_SECTION_KEYS = [
   'settings',
 ] as const;
 
-export const SUPERADMIN_EMAIL = 'superadmin@softzino.com';
-export const ADMIN_EMAIL = 'admin@softzino.com';
+export const SUPERADMIN_EMAIL = 'superadmin@ecom.com';
+export const ADMIN_EMAIL = 'admin@ecom.com';
 const DEFAULT_PASSWORD = 'password';
 
 /** Find-or-create a role by name (Role.name is not unique in the schema). */
