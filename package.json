@@ -23,7 +23,7 @@
     "postinstall": "prisma generate",
     "prebuild": "prisma generate",
     "build": "nest build",
-    "start:prod": "node dist/src/main",
+    "start:prod": "node dist/main",
     "//-5-db-utils": "──────── DATABASE · utilities (both dev & prod) ────────",
     "db:generate": "prisma generate",
     "db:studio": "prisma studio",

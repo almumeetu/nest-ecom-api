@@ -134,14 +134,17 @@ export class OrderService {
         });
       }
 
+      const shippingCost = dto.shippingCost ?? 0;
+      const finalTotal = Math.max(0, subtotal - discount + shippingCost);
+
       const order = await tx.order.create({
         data: {
           orderNumber: `ORD-${Date.now()}`,
           userId,
           addressId: dto.addressId,
-          total: subtotal - discount,
+          total: finalTotal,
           discount,
-          shippingCost: 0,
+          shippingCost,
           items: {
             create: itemsWithDiscounts.map((item) => ({
               productId: item.variant.productId,
@@ -151,7 +154,12 @@ export class OrderService {
               totalPrice: item.activePrice * item.quantity,
             })),
           },
-          statusLogs: { create: { status: 'pending', note: 'Order created' } },
+          statusLogs: {
+            create: {
+              status: 'pending',
+              note: dto.orderNote ? `Order created. Note: ${dto.orderNote}` : 'Order created',
+            },
+          },
         },
         include: orderInclude,
       });
@@ -279,13 +287,20 @@ export class OrderService {
         });
       }
 
+      const shippingCost = dto.shippingCost ?? 0;
+      const finalTotal = Math.max(0, subtotal - discount + shippingCost);
+      const guestAddressData = {
+        ...dto.address,
+        ...(dto.orderNote ? { orderNote: dto.orderNote } : {}),
+      };
+
       const order = await tx.order.create({
         data: {
           orderNumber: `ORD-${Date.now()}`,
-          total: subtotal - discount,
+          total: finalTotal,
           discount,
-          shippingCost: 0,
-          shippingAddress: dto.address as object,
+          shippingCost,
+          shippingAddress: guestAddressData as object,
           items: {
             create: itemsData.map((item) => ({
               productId: item.productId,
@@ -295,7 +310,12 @@ export class OrderService {
               totalPrice: item.unitPrice * item.quantity,
             })),
           },
-          statusLogs: { create: { status: 'pending', note: 'Guest order placed' } },
+          statusLogs: {
+            create: {
+              status: 'pending',
+              note: dto.orderNote ? `Guest order placed. Note: ${dto.orderNote}` : 'Guest order placed',
+            },
+          },
         },
         include: orderInclude,
       });
@@ -371,14 +391,22 @@ export class OrderService {
   }
 
   async trackOrder(orderNumber: string) {
+    const cleanNumber = orderNumber.trim().replace(/^#/, '');
     const order = await this.prisma.order.findFirst({
-      where: { orderNumber },
+      where: {
+        OR: [
+          { orderNumber: { equals: cleanNumber, mode: 'insensitive' } },
+          { id: cleanNumber },
+        ],
+      },
       select: {
         id: true,
         orderNumber: true,
         status: true,
         total: true,
+        shippingCost: true,
         placedAt: true,
+        statusLogs: { orderBy: { createdAt: 'desc' as const } },
       },
     });
     if (!order) throw new NotFoundException(`Order not found`);

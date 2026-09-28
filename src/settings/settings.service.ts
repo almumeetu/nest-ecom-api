@@ -20,9 +20,17 @@ export class SettingsService {
   }
 
   async findFirst() {
-    const setting = await this.prisma.setting.findFirst();
+    let setting = await this.prisma.setting.findFirst();
     if (!setting) {
-      throw new NotFoundException('Settings have not been configured yet');
+      setting = await this.prisma.setting.create({
+        data: {
+          shopName: 'Trust Point Mart',
+          currency: 'BDT',
+          deliveryChargeInside: 60,
+          deliveryChargeOutside: 120,
+          deliveryChargeNearCity: 80,
+        },
+      });
     }
     return setting;
   }

@@ -1,5 +1,6 @@
 import { Controller, Get, Body, Patch } from '@nestjs/common';
 import { ApiTags, ApiOperation } from '@nestjs/swagger';
+import { Public } from '../auth/public.decorator';
 import { SettingsService } from './settings.service';
 import { UpdateSettingDto } from './dto/update-setting.dto';
 
@@ -8,6 +9,7 @@ import { UpdateSettingDto } from './dto/update-setting.dto';
 export class SettingsController {
   constructor(private readonly settingsService: SettingsService) {}
 
+  @Public()
   @Get()
   @ApiOperation({ summary: 'Get settings' })
   findFirst() {

@@ -1,6 +1,6 @@
 import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
 import { Type } from 'class-transformer';
-import { ArrayMinSize, IsEmail, IsIn, IsInt, IsOptional, IsString, IsUUID, Min, ValidateNested } from 'class-validator';
+import { ArrayMinSize, IsEmail, IsIn, IsInt, IsNumber, IsOptional, IsString, IsUUID, Min, ValidateIf, ValidateNested } from 'class-validator';
 
 const ORDER_STATUSES = [
   'pending',
@@ -64,6 +64,17 @@ export class CreateOrderDto {
   @IsString()
   couponCode?: string;
 
+  @ApiPropertyOptional({ example: 60 })
+  @IsOptional()
+  @Type(() => Number)
+  @IsNumber()
+  shippingCost?: number;
+
+  @ApiPropertyOptional({ example: 'Please call before delivery' })
+  @IsOptional()
+  @IsString()
+  orderNote?: string;
+
   @ApiPropertyOptional({ type: [GuestOrderItemDto] })
   @IsOptional()
   @ValidateNested({ each: true })
@@ -72,9 +83,11 @@ export class CreateOrderDto {
 }
 
 export class GuestAddressDto {
-  @ApiProperty({ example: 'guest@example.com' })
+  @ApiPropertyOptional({ example: 'guest@example.com' })
+  @IsOptional()
+  @ValidateIf((o) => Boolean(o.email))
   @IsEmail()
-  email: string;
+  email?: string;
 
   @ApiProperty({ example: 'John Doe' })
   @IsString()
@@ -97,17 +110,20 @@ export class GuestAddressDto {
   @IsString()
   city: string;
 
-  @ApiProperty({ example: 'NY' })
+  @ApiPropertyOptional({ example: 'Dhaka' })
+  @IsOptional()
   @IsString()
-  state: string;
+  state?: string;
 
-  @ApiProperty({ example: '10001' })
+  @ApiPropertyOptional({ example: '1200' })
+  @IsOptional()
   @IsString()
-  postalCode: string;
+  postalCode?: string;
 
-  @ApiProperty({ example: 'US' })
+  @ApiPropertyOptional({ example: 'Bangladesh' })
+  @IsOptional()
   @IsString()
-  country: string;
+  country?: string;
 }
 
 export class CreateGuestOrderDto {
@@ -126,6 +142,17 @@ export class CreateGuestOrderDto {
   @IsOptional()
   @IsString()
   couponCode?: string;
+
+  @ApiPropertyOptional({ example: 60 })
+  @IsOptional()
+  @Type(() => Number)
+  @IsNumber()
+  shippingCost?: number;
+
+  @ApiPropertyOptional({ example: 'Please call before delivery' })
+  @IsOptional()
+  @IsString()
+  orderNote?: string;
 }
 
 export class UpdateOrderStatusDto {

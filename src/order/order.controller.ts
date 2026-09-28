@@ -41,6 +41,7 @@ export class OrderController {
     return this.orderService.myOrders(req.user.id);
   }
 
+  @Public()
   @Get(':id')
   @ApiOperation({ summary: 'Get order by ID' })
   findOne(@Param('id') id: string) {
