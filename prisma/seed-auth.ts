@@ -72,10 +72,11 @@ export async function seedAuth(prisma: PrismaClient) {
 
   const superadmin = await prisma.user.upsert({
     where: { email: SUPERADMIN_EMAIL },
-    update: { roleId: superadminRole.id },
+    update: { roleId: superadminRole.id, phone: '01722301927' },
     create: {
       name: 'Super Admin',
       email: SUPERADMIN_EMAIL,
+      phone: '01722301927',
       password: hashed,
       emailVerifiedAt: new Date(),
       role: { connect: { id: superadminRole.id } },
@@ -84,10 +85,11 @@ export async function seedAuth(prisma: PrismaClient) {
 
   const admin = await prisma.user.upsert({
     where: { email: ADMIN_EMAIL },
-    update: { roleId: adminRole.id },
+    update: { roleId: adminRole.id, phone: '01722301927' },
     create: {
       name: 'Admin',
       email: ADMIN_EMAIL,
+      phone: '01722301927',
       password: hashed,
       emailVerifiedAt: new Date(),
       role: { connect: { id: adminRole.id } },

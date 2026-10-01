@@ -1,0 +1,2314 @@
+[
+  {
+    "id": "nm-sk-1",
+    "name": "The Ordinary Niacinamide 10% + Zinc 1% (30ml)",
+    "price": "৳1,150",
+    "originalPrice": "৳1,350",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80",
+    "collection": "Skin Care & Beauty",
+    "priceNum": 1150,
+    "category": "Skin Care",
+    "origin": "Canada / UK (100% Authentic Import)",
+    "subtitle": "High-strength vitamin and mineral blemish formula for glowing, balanced skin texture.",
+    "description": "The Ordinary Niacinamide 10% + Zinc 1% is a water-based serum that boosts skin brightness, improves skin smoothness, and reinforces the skin barrier over time. Formulated with a high concentration of niacinamide (vitamin B3) supported by zinc PCA to balance visible sebum activity.",
+    "teas": [],
+    "ingredients": [
+      "10% Niacinamide (Vitamin B3)",
+      "1% Zinc PCA for Sebum Control",
+      "Alcohol-Free, Oil-Free, Silicone-Free"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "The Ordinary"
+  },
+  {
+    "id": "nm-sk-2",
+    "name": "CeraVe Daily Moisturizing Lotion (237ml)",
+    "price": "৳1,850",
+    "originalPrice": "৳2,200",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
+    "collection": "Skin Care & Beauty",
+    "priceNum": 1850,
+    "category": "Skin Care",
+    "origin": "USA (Dermatologist Recommended)",
+    "subtitle": "Lightweight, oil-free moisturizer with 3 essential ceramides and hyaluronic acid.",
+    "description": "Developed with dermatologists, CeraVe Daily Moisturizing Lotion has a unique, lightweight formula that provides 24-hour hydration and helps restore the protective skin barrier with three essential ceramides (1, 3, 6-II). Utilizes patented MVE delivery technology.",
+    "teas": [],
+    "ingredients": [
+      "3 Essential Ceramides (1, 3, 6-II)",
+      "Hyaluronic Acid for Deep Hydration",
+      "Fragrance-Free & Non-Comedogenic"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "CeraVe"
+  },
+  {
+    "id": "nm-sk-3",
+    "name": "COSRX Advanced Snail 96 Mucin Power Essence (100ml)",
+    "price": "৳1,650",
+    "originalPrice": "৳1,950",
+    "image": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=800&auto=format&fit=crop&q=80",
+    "collection": "Skin Care & Beauty",
+    "priceNum": 1650,
+    "category": "Skin Care",
+    "origin": "South Korea (K-Beauty Certified)",
+    "subtitle": "Lightweight hydrating essence enriched with 96.3% snail secretion filtrate.",
+    "description": "Formulated with 96.3% Snail Secretion Filtrate, this essence protects the skin from moisture loss while improving skin elasticity. Snail mucin helps repair and soothes red, sensitized skin post-breakouts by replenishing moisture.",
+    "teas": [],
+    "ingredients": [
+      "96.3% Snail Secretion Filtrate",
+      "Sodium Hyaluronate & Allantoin",
+      "Cruelty-Free, Paraben-Free"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "COSRX"
+  },
+  {
+    "id": "nm-sk-4",
+    "name": "La Roche-Posay Anthelios UVmune 400 SPF50+ (50ml)",
+    "price": "৳2,450",
+    "originalPrice": "৳2,800",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&auto=format&fit=crop&q=80",
+    "collection": "Skin Care & Beauty",
+    "priceNum": 2450,
+    "category": "Skin Care",
+    "origin": "France (European Derm Standard)",
+    "subtitle": "Ultra-long UVA protection, invisible fluid finish with sweat & water resistance.",
+    "description": "La Roche-Posay Anthelios UVmune 400 Invisible Fluid SPF50+ offers the ultimate broad-spectrum protection against UVA and UVB rays, specially designed for sensitive skin in tropical climates.",
+    "teas": [],
+    "ingredients": [
+      "Mexoryl 400 UV Filter Technology",
+      "Netlock Technology for Invisible Texture",
+      "Non-Greasy & Anti-Eye Stinging"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "La Roche-Posay"
+  },
+  {
+    "id": "nm-el-1",
+    "name": "Apple AirPods Pro (2nd Generation) MagSafe Case",
+    "price": "৳24,500",
+    "originalPrice": "৳27,990",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=800&auto=format&fit=crop&q=80",
+    "collection": "Digital Electronics",
+    "priceNum": 24500,
+    "category": "Digital Electronics",
+    "origin": "Official Apple Global Channel",
+    "subtitle": "Up to 2x more Active Noise Cancellation, Adaptive Audio, and USB-C MagSafe charging.",
+    "description": "AirPods Pro (2nd generation) with USB-C delivers up to 2x more Active Noise Cancellation than the previous generation, with Transparency mode that lets you hear the world around you, and all-new Adaptive Audio that dynamically tailors noise control to your environment.",
+    "teas": [],
+    "ingredients": [
+      "Apple H2 Headphone Chip",
+      "Personalized Spatial Audio with Dynamic Head Tracking",
+      "IP54 Dust, Sweat, and Water Resistant"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Apple"
+  },
+  {
+    "id": "nm-el-2",
+    "name": "Samsung Galaxy Watch 6 Bluetooth (44mm)",
+    "price": "৳21,500",
+    "originalPrice": "৳24,000",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80",
+    "collection": "Digital Electronics",
+    "priceNum": 21500,
+    "category": "Digital Electronics",
+    "origin": "Samsung Official Distributor",
+    "subtitle": "Super AMOLED Sapphire Crystal display, advanced sleep coaching and ECG heart monitor.",
+    "description": "Start your everyday wellness journey with Samsung Galaxy Watch 6. Featuring a 20% larger screen and a 30% slimmer bezel, complete with personalized HR zones, comprehensive sleep analysis, and fast wireless charging.",
+    "teas": [],
+    "ingredients": [
+      "1.47-inch Sapphire Crystal Super AMOLED",
+      "BioActive Sensor (ECG, Heart Rate, BIA)",
+      "5ATM + IP68 Water and Dust Resistance"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Samsung"
+  },
+  {
+    "id": "nm-el-3",
+    "name": "Anker 20,000mAh 22.5W High-Speed Power Bank",
+    "price": "৳3,450",
+    "originalPrice": "৳3,950",
+    "image": "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?w=800&auto=format&fit=crop&q=80",
+    "collection": "Digital Electronics",
+    "priceNum": 3450,
+    "category": "Digital Electronics",
+    "origin": "Anker Official Channel",
+    "subtitle": "Triple-port fast charging power bank with digital battery indicator display.",
+    "description": "Equipped with 22.5W PowerIQ and Power Delivery fast-charging technology. Charge 3 devices simultaneously with 2 USB-A and 1 USB-C ports. Built-in MultiProtect safety system protects your devices from overcurrent and short circuits.",
+    "teas": [],
+    "ingredients": [
+      "20,000mAh High-Density Polymer Battery",
+      "22.5W Max Fast Charging via USB-C PD",
+      "Smart Digital LED Display"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Anker"
+  },
+  {
+    "id": "nm-el-4",
+    "name": "Sony WH-1000XM5 Wireless ANC Headphones",
+    "price": "৳36,500",
+    "originalPrice": "৳41,000",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80",
+    "collection": "Digital Electronics",
+    "priceNum": 36500,
+    "category": "Digital Electronics",
+    "origin": "Sony Brand Warranty",
+    "subtitle": "Industry-leading noise cancellation with two processors and 8 microphones.",
+    "description": "Sony's flagship WH-1000XM5 headphones rewrite the rules for distraction-free listening. With 2 processors controlling 8 microphones, Auto NC Optimizer, and an ultra-comfortable lightweight design in soft fit leather.",
+    "teas": [],
+    "ingredients": [
+      "Integrated Processor V1 & HD Noise Cancelling QN1",
+      "30-Hour Battery Life with 3-Min Quick Charge",
+      "High-Resolution Audio Wireless LDAC"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Sony"
+  },
+  {
+    "id": "nm-pf-1",
+    "name": "Dior Sauvage Eau De Parfum (100ml)",
+    "price": "৳14,500",
+    "originalPrice": "৳16,800",
+    "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=800&auto=format&fit=crop&q=80",
+    "collection": "Perfumes & Fragrances",
+    "priceNum": 14500,
+    "category": "Perfume",
+    "origin": "France (100% Original Sealed Box)",
+    "subtitle": "Iconic fresh and woody composition with Calabrian bergamot and Papua New Guinean vanilla.",
+    "description": "A powerful and noble fragrance, Dior Sauvage Eau de Parfum unfurls an olfactory score that oscillates between raw freshness and sensual, mysterious warmth. Accents of smoked vanilla absolute enveloped in amber notes create an unmistakable signature.",
+    "teas": [],
+    "ingredients": [
+      "Top Notes: Reggio Bergamot, Mandarin",
+      "Heart Notes: Virginian Cedar, Sri Lankan Sandalwood",
+      "Base Notes: Papua New Guinean Vanilla Absolute"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Dior"
+  },
+  {
+    "id": "nm-pf-2",
+    "name": "Chanel Bleu De Chanel Pour Homme EDP (100ml)",
+    "price": "৳16,200",
+    "originalPrice": "৳18,500",
+    "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800&auto=format&fit=crop&q=80",
+    "collection": "Perfumes & Fragrances",
+    "priceNum": 16200,
+    "category": "Perfume",
+    "origin": "France (Authentic Import)",
+    "subtitle": "An aromatic, intensely woody fragrance for the man who defies convention.",
+    "description": "BLEU DE CHANEL Eau de Parfum is an aromatic-woody fragrance with ambery and musky notes. A sensual interpretation in which dry cedar notes lend sensual warmth, while New Caledonian sandalwood brings elegance and depth.",
+    "teas": [],
+    "ingredients": [
+      "Top Notes: Grapefruit, Lemon, Mint, Pink Pepper",
+      "Heart Notes: Ginger, Nutmeg, Jasmine, Iso E Super",
+      "Base Notes: Incense, Vetiver, Cedar, Sandalwood"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Chanel"
+  },
+  {
+    "id": "nm-pf-3",
+    "name": "Al Haramain Amber Oud Gold Edition (60ml)",
+    "price": "৳5,850",
+    "originalPrice": "৳6,500",
+    "image": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&auto=format&fit=crop&q=80",
+    "collection": "Perfumes & Fragrances",
+    "priceNum": 5850,
+    "category": "Perfume",
+    "origin": "United Arab Emirates",
+    "subtitle": "Opulent fruity oriental unisex fragrance with sweet melon, pineapple, and warm vanilla amber.",
+    "description": "Amber Oud Gold Edition is a luxurious oriental fragrance that captures elegance with sweet, sparkling top notes followed by rich amber and sensual musk. Extraordinary longevity and sillage suitable for both daily wear and special occasions.",
+    "teas": [],
+    "ingredients": [
+      "Top Notes: Bergamot, Green Notes",
+      "Heart Notes: Sweet Melon, Pineapple, Amber",
+      "Base Notes: Vanilla, Musk, Woody Accord"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Selected"
+  },
+  {
+    "id": "nm-pf-4",
+    "name": "Bella Vita Luxury Organic Unisex Perfume Set (4x20ml)",
+    "price": "৳1,950",
+    "originalPrice": "৳2,400",
+    "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&auto=format&fit=crop&q=80",
+    "collection": "Perfumes & Fragrances",
+    "priceNum": 1950,
+    "category": "Perfume",
+    "origin": "Luxury Organic Perfumery",
+    "subtitle": "Gift pack featuring CEO, White Oud, Skai Aquatic, and Fresh luxury travel editions.",
+    "description": "A curated discovery set of premium artisanal EDP perfumes. Perfect for personal gifting and travel, delivering all-day fragrance variety from fresh aquatic morning notes to royal white oud evening sophistication.",
+    "teas": [],
+    "ingredients": [
+      "4 x 20ml Travel EDP Sprays",
+      "Long-lasting 10-12hr Fragrance Oils",
+      "IFRA Certified Skin-Friendly"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Selected"
+  },
+  {
+    "id": "nm-cl-1",
+    "name": "Royal Silk Embroidered Festive Panjabi",
+    "price": "৳3,850",
+    "originalPrice": "৳4,500",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&auto=format&fit=crop&q=80",
+    "collection": "Clothing & Fashion",
+    "priceNum": 3850,
+    "category": "Clothing",
+    "origin": "Dhaka & Pabna Weavers, Bangladesh",
+    "subtitle": "Handcrafted pure silk-blend panjabi with intricate zardosi collar embroidery.",
+    "description": "Crafted from fine silk-viscose blended fabric with immaculate hand-embroidered detailing along the placket and collar. Cut in a modern slim fit that exudes timeless cultural elegance for Eid, weddings, and festive gatherings.",
+    "teas": [],
+    "ingredients": [
+      "Fine Silk-Viscose Lurex Blend",
+      "Intricate Mandarin Collar Zardosi Needlework",
+      "Breathable Inner Cotton Facing"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Selected"
+  },
+  {
+    "id": "nm-cl-2",
+    "name": "Heavyweight 220 GSM Supima Cotton T-Shirt",
+    "price": "৳850",
+    "originalPrice": "৳1,100",
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80",
+    "collection": "Clothing & Fashion",
+    "priceNum": 850,
+    "category": "Clothing",
+    "origin": "Dhaka Apparel Hub, Bangladesh",
+    "subtitle": "Dense, ultra-soft combed Supima cotton with ribbed collar and pre-shrunk finish.",
+    "description": "Constructed with premium 220 GSM long-staple combed cotton for substantial drape and non-translucent durability. Features double-needle coverstitched hems and reactive color dyeing that withstands dozens of washes.",
+    "teas": [],
+    "ingredients": [
+      "100% Combed Compact Supima Cotton (220 GSM)",
+      "Bio-Washed & Silicon Softened",
+      "Seamless Ribbed Crewneck"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Selected"
+  },
+  {
+    "id": "nm-cl-3",
+    "name": "Handloom Floral Georgette Party Saree",
+    "price": "৳4,950",
+    "originalPrice": "৳5,800",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&auto=format&fit=crop&q=80",
+    "collection": "Clothing & Fashion",
+    "priceNum": 4950,
+    "category": "Clothing",
+    "origin": "Tangail Handloom Cluster, Bangladesh",
+    "subtitle": "Flowing lightweight pure georgette saree with digital floral prints and scalloped zari border.",
+    "description": "An ethereal blend of traditional Bangladeshi handloom weaving and contemporary pastel floral aesthetics. Light as air and effortlessly drapeable, accompanied by an unstitched contrast designer blouse piece.",
+    "teas": [],
+    "ingredients": [
+      "Premium Pure Georgette Silk Blend",
+      "5.5 Meters Saree + 0.8 Meter Blouse Piece",
+      "Metallic Gold Scalloped Border Embroidery"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Selected"
+  },
+  {
+    "id": "nm-cl-4",
+    "name": "Executive Crisp Slim Fit Oxford Cotton Shirt",
+    "price": "৳1,750",
+    "originalPrice": "৳2,100",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&auto=format&fit=crop&q=80",
+    "collection": "Clothing & Fashion",
+    "priceNum": 1750,
+    "category": "Clothing",
+    "origin": "Dhaka Tailoring Atelier, Bangladesh",
+    "subtitle": "Wrinkle-resistant 100% Egyptian long-staple cotton shirt tailored for executive sharpness.",
+    "description": "Designed with precision collar fusing, genuine horn buttons, and breathable fine basketweave Oxford texture. Engineered to stay crisp and comfortable through 12-hour workdays in Bangladesh's weather.",
+    "teas": [],
+    "ingredients": [
+      "100% Long-Staple Egyptian Cotton",
+      "Reinforced Gusseted Side Seams",
+      "Easy-Iron Stain-Repellent Coating"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Selected"
+  },
+  {
+    "id": "nm-bb-1",
+    "name": "Pampers Premium Protection Diaper Pants (Size 4 Mega)",
+    "price": "৳2,350",
+    "originalPrice": "৳2,700",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=800&auto=format&fit=crop&q=80",
+    "collection": "Baby & Kids Products",
+    "priceNum": 2350,
+    "category": "Baby Products",
+    "origin": "Procter & Gamble Official Import",
+    "subtitle": "Feather-like softness with 360° breathable waistband and up to 12hr leak-lock protection.",
+    "description": "Give your baby the #1 comfort and skin protection from Pampers. Featuring micro-pore air channels that allow air to circulate freely, wetness indicator line, and ultra-stretchy waistbands for easy diaper changes.",
+    "teas": [],
+    "ingredients": [
+      "Dermatologically Tested Hypoallergenic Core",
+      "12-Hour Active Leak-Lock Absorption",
+      "Wetness Indicator & Tear-Away Sides"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Pampers"
+  },
+  {
+    "id": "nm-bb-2",
+    "name": "Philips Avent Natural Feeding Bottle Set (260ml x 2)",
+    "price": "৳2,100",
+    "originalPrice": "৳2,500",
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=800&auto=format&fit=crop&q=80",
+    "collection": "Baby & Kids Products",
+    "priceNum": 2100,
+    "category": "Baby Products",
+    "origin": "Philips Official Channel (BPA Free)",
+    "subtitle": "Wide breast-shaped teat promotes natural latch-on with anti-colic spiral flex design.",
+    "description": "The Philips Avent Natural bottle with ultra-soft teat closely resembles the breast. Wide breast-shaped teat with flexible spiral design and comfort petals promotes natural latch-on and makes it easy to combine breast and bottle feeding.",
+    "teas": [],
+    "ingredients": [
+      "100% BPA-Free Food Grade Polypropylene",
+      "Twin Anti-Colic Air Valve Technology",
+      "Ergonomic Easy-Grip Bottle Shape"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Philips Avent"
+  },
+  {
+    "id": "nm-bb-3",
+    "name": "Johnson's Baby Head-to-Toe Wash & Lotion Set (500ml)",
+    "price": "৳1,450",
+    "originalPrice": "৳1,700",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
+    "collection": "Baby & Kids Products",
+    "priceNum": 1450,
+    "category": "Baby Products",
+    "origin": "Johnson & Johnson Official Channel",
+    "subtitle": "No More Tears gentle formula suitable for newborns and sensitive baby skin.",
+    "description": "Specially formulated to cleanse and nourish baby's delicate skin without drying. Tested with pediatricians and dermatologists to be hypoallergenic and free of harsh parabens, sulfates, and dyes.",
+    "teas": [],
+    "ingredients": [
+      "No More Tears Tearless Cleansing Base",
+      "pH Balanced with Coconut Oil Extract",
+      "Dye-Free, Phthalate-Free, Sulfate-Free"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Johnson's"
+  },
+  {
+    "id": "nm-bb-4",
+    "name": "Organic Soft Cotton Baby Rompers (3-Pack)",
+    "price": "৳1,250",
+    "originalPrice": "৳1,550",
+    "image": "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=800&auto=format&fit=crop&q=80",
+    "collection": "Baby & Kids Products",
+    "priceNum": 1250,
+    "category": "Baby Products",
+    "origin": "Certified Organic Kids Line",
+    "subtitle": "Ultra-gentle 100% GOTS certified combed organic cotton onesies with nickel-free snaps.",
+    "description": "A set of three newborn to toddler onesies crafted from ultra-soft certified organic cotton. Features expandable lap shoulder necklines and bottom snap closures to simplify dressing and diaper changes.",
+    "teas": [],
+    "ingredients": [
+      "100% GOTS Certified Organic Cotton",
+      "Nickel-Free Reinforced Snap Buttons",
+      "Tagless Neck Label to Prevent Irritation"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Selected"
+  },
+  {
+    "id": "nm-hm-1",
+    "name": "Ultrasonic Aroma Essential Oil Diffuser (500ml)",
+    "price": "৳1,850",
+    "originalPrice": "৳2,300",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&auto=format&fit=crop&q=80",
+    "collection": "Home & Living",
+    "priceNum": 1850,
+    "category": "Home & Living",
+    "origin": "Smart Home Verified Store",
+    "subtitle": "7-color ambient LED nightlight, whisper-quiet misting with auto shut-off safety.",
+    "description": "Transform your bedroom, living room, or study into a serene oasis. The ultrasonic diffuser atomizes pure water and essential oils without heat, keeping the therapeutic integrity intact while adding gentle humidity to air-conditioned rooms.",
+    "teas": [],
+    "ingredients": [
+      "500ml Large Water Capacity (10-12hr Mist)",
+      "BPA-Free Medical Grade PP Material",
+      "Wireless Remote Control Included"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Selected"
+  },
+  {
+    "id": "nm-hm-2",
+    "name": "Double Wall Vacuum Insulated Tumbler (750ml)",
+    "price": "৳1,150",
+    "originalPrice": "৳1,450",
+    "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?w=800&auto=format&fit=crop&q=80",
+    "collection": "Home & Living",
+    "priceNum": 1150,
+    "category": "Home & Living",
+    "origin": "EcoLiving Lifestyle",
+    "subtitle": "18/8 food-grade stainless steel with 24hr cold / 12hr hot temperature retention.",
+    "description": "Engineered with double-wall vacuum insulation and sweat-proof powder coating. Keeps your iced beverages frosty cold for 24 hours or steaming hot coffee fresh for 12 hours. Fits seamlessly into car cup holders.",
+    "teas": [],
+    "ingredients": [
+      "Premium 18/8 Pro-Grade Stainless Steel",
+      "Leak-Proof Magnetic Slider Sip Lid",
+      "Rust-Resistant & Dishwasher Safe"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Selected"
+  },
+  {
+    "id": "nm-hm-3",
+    "name": "Non-Stick Granite Marble Master Pan Set",
+    "price": "৳4,600",
+    "originalPrice": "৳5,400",
+    "image": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=800&auto=format&fit=crop&q=80",
+    "collection": "Home & Living",
+    "priceNum": 4600,
+    "category": "Home & Living",
+    "origin": "Culinary Pro Kitchens",
+    "subtitle": "PFOA-free 5-layer German granite coating with induction compatible base.",
+    "description": "Upgrade your kitchen with effortless non-stick performance. Heavy-gauge die-cast aluminum body provides rapid, even heat distribution with zero hot spots. Compatible with gas, electric, ceramic, and induction stoves.",
+    "teas": [],
+    "ingredients": [
+      "5-Layer Scratch-Resistant Granite Coating",
+      "Stay-Cool Soft-Touch Ergonomic Bakelite Handle",
+      "PFOA, Lead, and Cadmium Free"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Selected"
+  },
+  {
+    "id": "nm-sk-5",
+    "name": "Paula's Choice 2% BHA Liquid Exfoliant (118ml)",
+    "brand": "Paula's Choice",
+    "price": "৳3,200",
+    "originalPrice": "৳3,650",
+    "image": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=800&auto=format&fit=crop&q=80",
+    "collection": "Skin Care & Beauty",
+    "priceNum": 3200,
+    "category": "Skin Care",
+    "origin": "USA (Dermatologist Certified)",
+    "subtitle": "Clinically proven salicylic acid liquid exfoliant for unclogging pores and smoothing fine lines.",
+    "description": "A global cult favorite, Paula's Choice 2% BHA Liquid Exfoliant quickly exfoliates dead skin cells while clearing pores for a more even, radiant tone. Formulated with green tea extract to calm redness.",
+    "teas": [],
+    "ingredients": [
+      "2% Salicylic Acid (BHA)",
+      "Camellia Oleifera (Green Tea) Leaf Extract",
+      "Methylpropanediol for deep penetration"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-sk-6",
+    "name": "Beauty of Joseon Relief Sun: Rice + Probiotics SPF50+ (50ml)",
+    "brand": "Beauty of Joseon",
+    "price": "৳1,450",
+    "originalPrice": "৳1,750",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&auto=format&fit=crop&q=80",
+    "collection": "Skin Care & Beauty",
+    "priceNum": 1450,
+    "category": "Skin Care",
+    "origin": "South Korea (Authentic K-Beauty)",
+    "subtitle": "Moisturizing chemical sunscreen with 30% rice extract and fermented grain probiotics.",
+    "description": "Relief Sun is an organic lightweight sunscreen that applies gently onto skin without white cast. Packed with 30% rice extract and fermented grain complex, it nourishes and fortifies skin while protecting from strong UV rays.",
+    "teas": [],
+    "ingredients": [
+      "30% Rice Extract",
+      "Grain Fermented Probiotic Complex",
+      "Niacinamide for brightening"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-sk-7",
+    "name": "Anua Heartleaf 77% Soothing Toner (250ml)",
+    "brand": "Anua",
+    "price": "৳1,950",
+    "originalPrice": "৳2,300",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
+    "collection": "Skin Care & Beauty",
+    "priceNum": 1950,
+    "category": "Skin Care",
+    "origin": "South Korea (Olive Young #1)",
+    "subtitle": "Sub-acidic soothing facial toner formulated with 77% Houttuynia Cordata extract.",
+    "description": "Anua Heartleaf 77% Soothing Toner regulates moisture and sebum production while deeply soothing sensitive or irritated skin. Tested non-comedogenic and ideal for acne-prone skin.",
+    "teas": [],
+    "ingredients": [
+      "77% Houttuynia Cordata (Heartleaf) Extract",
+      "Panthenol & Centella Asiatica",
+      "Sugar Cane Extract for gentle smoothing"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-sk-8",
+    "name": "PanOxyl Antimicrobial Acne Foaming Wash 10% (156g)",
+    "brand": "PanOxyl",
+    "price": "৳1,850",
+    "originalPrice": "৳2,150",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80",
+    "collection": "Skin Care & Beauty",
+    "priceNum": 1850,
+    "category": "Skin Care",
+    "origin": "USA (Maximum Strength Benzoyl Peroxide)",
+    "subtitle": "Fast-acting antimicrobial wash that eliminates active acne bacteria on face and body.",
+    "description": "Maximum strength foaming wash contains 10% Benzoyl Peroxide to clear tough blemishes quickly and prevent new breakouts from forming. Perfect for back, chest, and facial acne.",
+    "teas": [],
+    "ingredients": [
+      "10% Benzoyl Peroxide (Active)",
+      "Hydrating humectants to avoid excessive drying"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-el-5",
+    "name": "Sony WH-1000XM5 Wireless Noise-Cancelling Headphones",
+    "brand": "Sony",
+    "price": "৳38,500",
+    "originalPrice": "৳42,000",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80",
+    "collection": "Digital Electronics",
+    "priceNum": 38500,
+    "category": "Digital Electronics",
+    "origin": "Sony Official Global Channel",
+    "subtitle": "Industry-leading noise cancellation with 2 processors, 8 microphones, and 30-hour battery life.",
+    "description": "The Sony WH-1000XM5 rewrites the rules for distraction-free listening. Two processors control 8 microphones for unprecedented noise cancellation and crystal clear hands-free calling.",
+    "teas": [],
+    "ingredients": [
+      "Integrated Processor V1 + HD QN1",
+      "30mm Precision Engineered Driver Unit",
+      "LDAC High-Resolution Audio Support"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-el-6",
+    "name": "Anker 737 Power Bank (PowerCore 24K, 140W Output)",
+    "brand": "Anker",
+    "price": "৳13,500",
+    "originalPrice": "৳15,500",
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800&auto=format&fit=crop&q=80",
+    "collection": "Digital Electronics",
+    "priceNum": 13500,
+    "category": "Digital Electronics",
+    "origin": "Anker Official Channel",
+    "subtitle": "Ultra-powerful 140W two-way fast charging with smart digital smart display.",
+    "description": "Equipped with the latest Power Delivery 3.1 and bi-directional technology to quickly recharge the portable charger or get a 140W ultra-powerful charge for MacBook Pro, iPhone, and Samsung devices.",
+    "teas": [],
+    "ingredients": [
+      "24,000mAh Battery Capacity",
+      "140W Maximum Power Delivery 3.1",
+      "Smart Informative Digital Display"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-el-7",
+    "name": "Baseus Bowie M2+ ANC True Wireless Earbuds",
+    "brand": "Baseus",
+    "price": "৳3,650",
+    "originalPrice": "৳4,200",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80",
+    "collection": "Digital Electronics",
+    "priceNum": 3650,
+    "category": "Digital Electronics",
+    "origin": "Baseus Official Partner",
+    "subtitle": "-42dB Hybrid Active Noise Cancellation with Bluetooth 5.3 and dual channel low latency.",
+    "description": "Baseus Bowie M2+ delivers high-fidelity acoustic performance with deep -42dB active noise cancellation, 30 hours of total playtime, and seamless dual device auto switching.",
+    "teas": [],
+    "ingredients": [
+      "Hybrid Active Noise Cancellation (-42dB)",
+      "Bluetooth 5.3 with 0.038s Low Latency",
+      "Wireless Qi Charging Supported"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-el-8",
+    "name": "Xiaomi Smart Band 8 Pro AMOLED Fitness Tracker",
+    "brand": "Xiaomi",
+    "price": "৳6,950",
+    "originalPrice": "৳7,800",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&auto=format&fit=crop&q=80",
+    "collection": "Digital Electronics",
+    "priceNum": 6950,
+    "category": "Digital Electronics",
+    "origin": "Xiaomi Global Authorized",
+    "subtitle": "1.74-inch high-refresh AMOLED screen with built-in independent GNSS positioning.",
+    "description": "Upgrade your daily fitness with the Xiaomi Smart Band 8 Pro. Features an expansive 1.74-inch 60Hz AMOLED screen, integrated GPS, all-day SpO2, heart-rate monitoring, and up to 14 days of battery endurance.",
+    "teas": [],
+    "ingredients": [
+      "1.74-inch 60Hz AMOLED Display",
+      "Independent Built-in GNSS GPS",
+      "5ATM Water Resistance up to 50m"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-pf-5",
+    "name": "Tom Ford Oud Wood Eau De Parfum (50ml Unisex)",
+    "brand": "Tom Ford",
+    "price": "৳23,500",
+    "originalPrice": "৳26,500",
+    "image": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?w=800&auto=format&fit=crop&q=80",
+    "collection": "Perfumes & Fragrances",
+    "priceNum": 23500,
+    "category": "Perfume",
+    "origin": "USA / France (Luxury Seal)",
+    "subtitle": "Iconic blend of rare oud wood, rosewood, cardamom, and sensual amber.",
+    "description": "One of the most rare, precious, and expensive ingredients in a perfumer's arsenal, oud wood is often burned in incense-filled temples of Bhutan. Exotic rose wood and cardamom give way to a smoky blend of rare oud wood, sandalwood and vetiver.",
+    "teas": [],
+    "ingredients": [
+      "Top: Rare Oud Wood & Brazilian Rosewood",
+      "Heart: Cardamom & Sichuan Pepper",
+      "Base: Sandalwood, Vetiver, Tonka Bean & Amber"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1547887537-6158d64c35b3?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-pf-6",
+    "name": "Versace Eros Flame Eau De Parfum (100ml)",
+    "brand": "Versace",
+    "price": "৳10,800",
+    "originalPrice": "৳12,500",
+    "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800&auto=format&fit=crop&q=80",
+    "collection": "Perfumes & Fragrances",
+    "priceNum": 10800,
+    "category": "Perfume",
+    "origin": "Italy (Authentic Designer Import)",
+    "subtitle": "Passionate fiery fragrance with Italian chinotto, black pepper, and warm vanilla.",
+    "description": "Versace Eros Flame is a fragrance for a strong, passionate, self-confident man who is deeply in touch with his emotions. Characterized by strong contrasts in which the most noble and elegant ingredients enrich and enhance one another.",
+    "teas": [],
+    "ingredients": [
+      "Top: Italian Chinotto, Lemon, Mandarin & Black Pepper",
+      "Heart: Rosemary, Pepperwood & Geranium",
+      "Base: Texas Cedar, Patchouli, Tonka Bean & Vanilla"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-pf-7",
+    "name": "Lattafa Asad Eau De Parfum for Men (100ml)",
+    "brand": "Lattafa",
+    "price": "৳2,850",
+    "originalPrice": "৳3,400",
+    "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=800&auto=format&fit=crop&q=80",
+    "collection": "Perfumes & Fragrances",
+    "priceNum": 2850,
+    "category": "Perfume",
+    "origin": "Dubai, UAE (100% Original Hologram)",
+    "subtitle": "Signature spicy oriental vanilla scent with black pepper, coffee, and rich woods.",
+    "description": "Lattafa Asad is an intoxicating, masculine fragrance featuring bold notes of black pepper, tobacco, pineapple, coffee, and patchouli. Long-lasting performance that turns heads.",
+    "teas": [],
+    "ingredients": [
+      "Top: Black Pepper, Pineapple & Tobacco",
+      "Heart: Coffee, Patchouli & Iris",
+      "Base: Amber, Vanilla, Dry Woods & Benzoin"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-pf-8",
+    "name": "Afnan 9 PM Eau De Parfum (100ml)",
+    "brand": "Afnan",
+    "price": "৳3,650",
+    "originalPrice": "৳4,200",
+    "image": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&auto=format&fit=crop&q=80",
+    "collection": "Perfumes & Fragrances",
+    "priceNum": 3650,
+    "category": "Perfume",
+    "origin": "UAE (Long-Lasting Sweet Amber)",
+    "subtitle": "Modern seductive club and evening fragrance with apple, cinnamon, and warm amber.",
+    "description": "Afnan 9 PM is designed for magnetic night outs and memorable gatherings. Opens with crispy bergamot and fresh wild apple before deepening into creamy vanilla and cedarwood.",
+    "teas": [],
+    "ingredients": [
+      "Top: Apple, Cinnamon, Wild Lavender & Bergamot",
+      "Heart: Orange Blossom & Lily-of-the-Valley",
+      "Base: Vanilla, Tonka Bean, Amber & Patchouli"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-cl-5",
+    "name": "Luxury Semi-Formal Linen Shirt for Men (Ice Blue)",
+    "brand": "NovaMart Studio",
+    "price": "৳2,450",
+    "originalPrice": "৳2,950",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&auto=format&fit=crop&q=80",
+    "collection": "Clothing & Fashion",
+    "priceNum": 2450,
+    "category": "Clothing",
+    "origin": "Dhaka Flagship Studio",
+    "subtitle": "Breathable European linen blend shirt with clean cutaway collar and mother-of-pearl buttons.",
+    "description": "Tailored for effortless sophistication in tropical weather, this pure linen blend shirt keeps you cool while maintaining sharp corporate and smart-casual elegance.",
+    "teas": [],
+    "ingredients": [
+      "65% European Flax Linen, 35% Combed Cotton",
+      "Natural Mother-of-Pearl Button Closures",
+      "Reinforced Collar Stays"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-cl-6",
+    "name": "Heavyweight Washed Denim Trucker Jacket (Vintage Indigo)",
+    "brand": "NovaMart Denim",
+    "price": "৳3,850",
+    "originalPrice": "৳4,500",
+    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&auto=format&fit=crop&q=80",
+    "collection": "Clothing & Fashion",
+    "priceNum": 3850,
+    "category": "Clothing",
+    "origin": "Premium Export Quality",
+    "subtitle": "13.5oz ring-spun vintage washed denim jacket with antique brass hardware.",
+    "description": "Constructed from heavy 13.5oz selvedge-grade denim with artisanal hand-scraping and vintage wash. Features dual button-flap chest pockets and adjustable waist tabs.",
+    "teas": [],
+    "ingredients": [
+      "100% Ring-Spun Cotton Denim (13.5 oz)",
+      "Heavy-Duty Antique Brass Shank Buttons",
+      "Double-Stitched Seams"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-cl-7",
+    "name": "Traditional Handloom Pure Muslin Silk Saree (Crimson Red)",
+    "brand": "Heritage Bengal",
+    "price": "৳6,500",
+    "originalPrice": "৳7,800",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&auto=format&fit=crop&q=80",
+    "collection": "Clothing & Fashion",
+    "priceNum": 6500,
+    "category": "Clothing",
+    "origin": "Artisan Weavers, Bangladesh",
+    "subtitle": "Hand-woven authentic Bengal Muslin silk with delicate golden zari border work.",
+    "description": "Celebrate festivals and wedding ceremonies with this lightweight, feather-soft pure Muslin silk saree. Handcrafted by master weavers with intricate metallic zari palla.",
+    "teas": [],
+    "ingredients": [
+      "100% Pure Natural Muslin Silk Yarn",
+      "Traditional Handloom Jamdani & Zari Motifs",
+      "Includes Matching Unstitched Blouse Piece"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-cl-8",
+    "name": "Combed Cotton Athleisure Jogger Pants (Charcoal Grey)",
+    "brand": "NovaMart Active",
+    "price": "৳1,450",
+    "originalPrice": "৳1,800",
+    "image": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=800&auto=format&fit=crop&q=80",
+    "collection": "Clothing & Fashion",
+    "priceNum": 1450,
+    "category": "Clothing",
+    "origin": "100% Breathable Knit",
+    "subtitle": "Ultra-soft French terry joggers with elastic drawstring waistband and deep zip pockets.",
+    "description": "Designed for daily comfort, workouts, or lounging. Premium 280 GSM French terry cotton provides optimal stretch and thermal breathability without pilling.",
+    "teas": [],
+    "ingredients": [
+      "95% Combed Cotton, 5% Spandex French Terry",
+      "Concealed YKK Zipper Pockets",
+      "Ribbed Ankle Cuffs"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-bk-5",
+    "name": "Chicco Natural Sensation Bath Shampoo Tear-Free (500ml)",
+    "brand": "Chicco",
+    "price": "৳1,650",
+    "originalPrice": "৳1,950",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=800&auto=format&fit=crop&q=80",
+    "collection": "Baby & Kids Products",
+    "priceNum": 1650,
+    "category": "Baby Products",
+    "origin": "Italy (Pediatrician Approved)",
+    "subtitle": "Ultra-gentle 2-in-1 bath foam and hair cleanser with aloe vera and chamomile.",
+    "description": "Formulated with natural plant ingredients to respect baby's delicate skin and eyes. Clinically tested hypoallergenic, paraben-free, and phenoxyethanol-free from day one.",
+    "teas": [],
+    "ingredients": [
+      "Aloe Vera & Chamomile Extracts",
+      "Tear-Free Neutral pH Formula",
+      "Dermatologically and Pediatrician Tested"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-bk-6",
+    "name": "Nuby 360-Degree Spill-Proof Wonder Trainer Cup (300ml)",
+    "brand": "Nuby",
+    "price": "৳850",
+    "originalPrice": "৳1,050",
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80",
+    "collection": "Baby & Kids Products",
+    "priceNum": 850,
+    "category": "Baby Products",
+    "origin": "USA / UK (BPA-Free Silicone)",
+    "subtitle": "Dentist-recommended 360° lip-activated silicone drinking rim without spills.",
+    "description": "Supports healthy oral development by allowing toddlers to drink from anywhere around the rim without spilling or leaking. Easy-grip handles fit small hands comfortably.",
+    "teas": [],
+    "ingredients": [
+      "100% Medical-Grade Food Safe Silicone",
+      "BPA, Phthalate and PVC Free",
+      "Dishwasher Safe (Top Rack)"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-bk-7",
+    "name": "Organic Cotton Baby Rompers & Bodysuit Set (3-Pack)",
+    "brand": "Little Stars",
+    "price": "৳1,450",
+    "originalPrice": "৳1,750",
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80",
+    "collection": "Baby & Kids Products",
+    "priceNum": 1450,
+    "category": "Baby Products",
+    "origin": "100% GOTS Certified Cotton",
+    "subtitle": "Super-soft breathable cotton rompers with nickel-free snaps and expandable neckline.",
+    "description": "Gentle on infant skin with zero harsh dyes or chemical finishes. Expandable lap shoulders allow easy over-the-head dressing and reinforced bottom snaps allow swift diaper changes.",
+    "teas": [],
+    "ingredients": [
+      "100% Certified Organic Combed Cotton",
+      "Lead and Nickel-Free Metal Snaps",
+      "Tagless Labels to Prevent Scratching"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-bk-8",
+    "name": "Sudocrem Antiseptic Healing Diaper Rash Cream (125g)",
+    "brand": "Sudocrem",
+    "price": "৳950",
+    "originalPrice": "৳1,150",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800&auto=format&fit=crop&q=80",
+    "collection": "Baby & Kids Products",
+    "priceNum": 950,
+    "category": "Baby Products",
+    "origin": "UK (Clinically Proven Formula)",
+    "subtitle": "Soothes, heals and protects baby delicate skin against painful diaper rash.",
+    "description": "Sudocrem has been parent's trusted ally for over 90 years. Forms a water-repellent barrier that stops irritants from contacting skin while zinc oxide promotes natural healing.",
+    "teas": [],
+    "ingredients": [
+      "Zinc Oxide (15.25%)",
+      "Anhydrous Hypoallergenic Lanolin",
+      "Benzyl Benzoate & Benzyl Cinnamate"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-hl-4",
+    "name": "Ultrasonic Aromatherapy Essential Oil Diffuser with Ambient LED (500ml)",
+    "brand": "PureAir Living",
+    "price": "৳2,450",
+    "originalPrice": "৳2,950",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&auto=format&fit=crop&q=80",
+    "collection": "Home & Living",
+    "priceNum": 2450,
+    "category": "Home & Living",
+    "origin": "Whisper-Quiet 24dB Operation",
+    "subtitle": "500ml ultrasonic cool mist humidifier with 7 soothing warm LED colors and auto shut-off.",
+    "description": "Transforms your living space into a relaxing spa oasis. Delivers micro-fine aromatic mist for up to 12 hours with quiet ultrasonic vibration and intelligent waterless auto power-off.",
+    "teas": [],
+    "ingredients": [
+      "500ml BPA-Free Reservoir",
+      "2.4MHz Ultrasonic Vibration Plate",
+      "Timer Modes: 1H / 3H / 6H / Continuous"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-hl-5",
+    "name": "Ergonomic Cervical Memory Foam Contour Neck Pillow",
+    "brand": "NovaRest",
+    "price": "৳1,850",
+    "originalPrice": "৳2,300",
+    "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=800&auto=format&fit=crop&q=80",
+    "collection": "Home & Living",
+    "priceNum": 1850,
+    "category": "Home & Living",
+    "origin": "High-Density Orthopedic Foam",
+    "subtitle": "Therapeutic contour neck pillow designed to relieve spinal tension and improve sleep posture.",
+    "description": "Engineered with slow-rebound memory foam that molds to the natural curvature of your neck and head. Includes a breathable, removable ice-silk zippered pillowcase.",
+    "teas": [],
+    "ingredients": [
+      "100% Slow-Rebound Orthopedic Memory Foam",
+      "Breathable Washable Ice-Silk Outer Cover",
+      "Hypoallergenic Anti-Dust Mite Inner Sleeve"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-hl-6",
+    "name": "3-Piece Non-Stick Granite Cookware Induction Pot & Pan Set",
+    "brand": "ChefMaster",
+    "price": "৳4,850",
+    "originalPrice": "৳5,600",
+    "image": "https://images.unsplash.com/photo-1584269600519-112d071b35e6?w=800&auto=format&fit=crop&q=80",
+    "collection": "Home & Living",
+    "priceNum": 4850,
+    "category": "Home & Living",
+    "origin": "German Greblon Non-Stick Coating",
+    "subtitle": "Die-cast aluminum cookware with 5-layer granite coating, glass lids, and wood-finish handles.",
+    "description": "Cook delicious meals with minimal oil. Multi-layer induction base heats evenly across gas, ceramic, and induction stoves. Scratch-resistant, 100% PFOA-free and easy to clean.",
+    "teas": [],
+    "ingredients": [
+      "Die-Cast Heavy Gauge Aluminum Body",
+      "Greblon Non-Stick Stone Coating (100% PFOA Free)",
+      "Tempered Glass Lids with Steam Vents"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1584269600519-112d071b35e6?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-hl-7",
+    "name": "40oz Vacuum Insulated Stainless Steel Tumbler with Straw",
+    "brand": "HydroThermal",
+    "price": "৳1,650",
+    "originalPrice": "৳1,990",
+    "image": "https://images.unsplash.com/photo-1577705998148-6da4f3963bc8?w=800&auto=format&fit=crop&q=80",
+    "collection": "Home & Living",
+    "priceNum": 1650,
+    "category": "Home & Living",
+    "origin": "Keeps Cold 24h / Hot 12h",
+    "subtitle": "Double-wall stainless steel travel tumbler with ergonomic comfort-grip handle and car cup fit.",
+    "description": "Keep hydration within reach all day long. Double-wall vacuum insulation maintains drinks ice-cold for 24 hours or steaming hot for 12 hours. Rotating 3-way lid accommodates reusable straw or direct sipping.",
+    "teas": [],
+    "ingredients": [
+      "18/8 Food-Grade Kitchen Stainless Steel",
+      "Sweat-Proof Powder Coated Exterior",
+      "Leak-Resistant Rotating Lid with Reusable Straw"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1577705998148-6da4f3963bc8?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-hl-8",
+    "name": "Nordic Minimalist Ceramic Fluted Flower Vase (Matte Off-White)",
+    "brand": "Nordic Craft",
+    "price": "৳1,250",
+    "originalPrice": "৳1,500",
+    "image": "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?w=800&auto=format&fit=crop&q=80",
+    "collection": "Home & Living",
+    "priceNum": 1250,
+    "category": "Home & Living",
+    "origin": "Handcrafted Stoneware Ceramic",
+    "subtitle": "Sculptural fluted ceramic vase for fresh blossoms, pampas grass, and shelf decor.",
+    "description": "Elevate your interior aesthetics with this Scandinavian-inspired fluted vase. High-temperature fired with a matte unglazed tactile exterior and glazed waterproof interior.",
+    "teas": [],
+    "ingredients": [
+      "High-Fire Kaolin Stoneware Ceramic",
+      "Waterproof Glazed Interior Lining",
+      "Non-Slip Soft Felt Base Padding"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-fw-1",
+    "name": "Nike Air Max Impact Cushioned Running Shoes",
+    "brand": "Nike",
+    "price": "৳6,500",
+    "originalPrice": "৳7,800",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=80",
+    "collection": "Footwear & Shoes",
+    "priceNum": 6500,
+    "category": "Footwear",
+    "origin": "Nike Global Distributor",
+    "subtitle": "Breathable engineered mesh upper with visible Air Max heel cushioning and high-traction rubber outsole.",
+    "description": "Designed for daily comfort, fitness runs, and street lifestyle. Features Nike Air Max unit in the heel for maximum impact absorption and lightweight responsiveness.",
+    "teas": [],
+    "ingredients": [
+      "Engineered Breathable Mesh & Synthetic Overlays",
+      "Visible Max Air Heel Cushioning Unit",
+      "Durable Herringbone Traction Rubber Sole"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-fw-2",
+    "name": "Handcrafted Genuine Leather Loafers for Men (Rich Tan Brown)",
+    "brand": "Apex Artisan",
+    "price": "৳4,250",
+    "originalPrice": "৳4,990",
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&auto=format&fit=crop&q=80",
+    "collection": "Footwear & Shoes",
+    "priceNum": 4250,
+    "category": "Footwear",
+    "origin": "100% Genuine Full-Grain Leather",
+    "subtitle": "Timeless slip-on penny loafers with memory foam insole and non-slip rubberized driver sole.",
+    "description": "Meticulously crafted from full-grain bovine leather with hand-sewn moc-toe stitching. Memory foam footbed molds to your foot for all-day office comfort and formal occasions.",
+    "teas": [],
+    "ingredients": [
+      "100% Full-Grain Bovine Leather Upper",
+      "Cushioned Ortho-Foam Insole",
+      "Anti-Slip Flexible Thermoplastic Rubber Sole"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "nm-fd-1",
+    "name": "Sundarban 100% Raw Wildflower Honey (500g Glass Jar)",
+    "price": "৳850",
+    "originalPrice": "৳1,050",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=800&auto=format&fit=crop&q=80",
+    "collection": "Gourmet Foods & Agro",
+    "priceNum": 850,
+    "category": "Pantry & Groceries",
+    "origin": "Sundarbans Mangrove Forest, Bangladesh",
+    "subtitle": "Unprocessed, unpasteurized natural honey collected ethically by traditional Mouals.",
+    "description": "Pure, natural wildflower honey sourced from deep inside the Sundarbans mangrove forest. Retains all living enzymes, floral pollen, and natural antioxidants. Completely unadulterated without added sugars or artificial preservatives.",
+    "teas": [],
+    "ingredients": [
+      "100% Raw Wildflower Honey",
+      "No Added Sugar, Artificial Flavors or Preservatives",
+      "Lab Tested Purity Certified"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1471943311424-646960669fbc?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Organic Poshar"
+  },
+  {
+    "id": "nm-fd-2",
+    "name": "Extra Virgin Cold-Pressed Olive Oil (750ml Glass Bottle)",
+    "price": "৳1,450",
+    "originalPrice": "৳1,750",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=800&auto=format&fit=crop&q=80",
+    "collection": "Gourmet Foods & Agro",
+    "priceNum": 1450,
+    "category": "Pantry & Groceries",
+    "origin": "Andalusia, Spain (Direct Import)",
+    "subtitle": "First cold-pressed Mediterranean extra virgin olive oil with low acidity.",
+    "description": "Pressed from hand-picked Andalusian olives within 24 hours of harvest. Delivers an intense fruity aroma with subtle peppery finish, perfect for light sautéing, salad dressings, and health-conscious everyday cooking.",
+    "teas": [],
+    "ingredients": [
+      "100% Extra Virgin Olive Oil",
+      "First Cold Extraction (<27°C)",
+      "Acidity < 0.5%"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Borges"
+  },
+  {
+    "id": "nm-fd-3",
+    "name": "California Roasted & Salted Jumbo Almonds (500g Air-Tight Pouch)",
+    "price": "৳890",
+    "originalPrice": "৳1,100",
+    "image": "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=800&auto=format&fit=crop&q=80",
+    "collection": "Gourmet Foods & Agro",
+    "priceNum": 890,
+    "category": "Dry Fruits & Nuts",
+    "origin": "California, USA",
+    "subtitle": "Slow dry-roasted nonpareil almonds with a touch of Himalayan pink rock salt.",
+    "description": "High-protein premium nonpareil California almonds, slowly dry-roasted to golden crisp perfection without any added vegetable oils. Lightly sprinkled with Himalayan rock salt for a healthy, energizing daily snack.",
+    "teas": [],
+    "ingredients": [
+      "Roasted California Almonds (99%)",
+      "Himalayan Pink Rock Salt (1%)"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NuttyGritties"
+  },
+  {
+    "id": "nm-fd-4",
+    "name": "Al Madina Premium Jumbo Medjool Soft Dates (1kg Royal Box)",
+    "price": "৳1,650",
+    "originalPrice": "৳1,950",
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&auto=format&fit=crop&q=80",
+    "collection": "Gourmet Foods & Agro",
+    "priceNum": 1650,
+    "category": "Dry Fruits & Nuts",
+    "origin": "Madinah Al Munawwarah, Saudi Arabia",
+    "subtitle": "Large, succulent caramel-textured Medjool dates from the holy city of Madinah.",
+    "description": "Known as the King of Dates, these premium jumbo Medjool dates feature plump, glossy skin, melt-in-your-mouth soft flesh, and a rich caramel sweetness. 100% natural, rich in fiber, potassium, and essential minerals.",
+    "teas": [],
+    "ingredients": [
+      "100% Pure Natural Medjool Dates",
+      "No Added Sugar or Preservatives"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Al Madina"
+  },
+  {
+    "id": "nm-fd-5",
+    "name": "Traditional Bilona Pure Grass-Fed Cow Ghee (500g Glass Jar)",
+    "price": "৳950",
+    "originalPrice": "৳1,150",
+    "image": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=800&auto=format&fit=crop&q=80",
+    "collection": "Gourmet Foods & Agro",
+    "priceNum": 950,
+    "category": "Dairy & Ghee",
+    "origin": "Naogaon Organic Dairy Hub, Bangladesh",
+    "subtitle": "Aroma-rich granular cow ghee made from grass-fed whole curd churning.",
+    "description": "Prepared through the ancient Vedic Bilona method using whole cultured curd from grass-fed local cows. Slowly simmered over low fire to develop signature golden granular texture (Daandar) and heavenly nostalgic aroma.",
+    "teas": [],
+    "ingredients": [
+      "100% Clarified Butterfat from Cow Milk Curd",
+      "Naturally Lactose & Casein Free"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Farms"
+  },
+  {
+    "id": "nm-fd-6",
+    "name": "Twinings of London Pure Green Tea & Jasmine (25 Foil Wrapped Bags)",
+    "price": "৳580",
+    "originalPrice": "৳680",
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=800&auto=format&fit=crop&q=80",
+    "collection": "Gourmet Foods & Agro",
+    "priceNum": 580,
+    "category": "Beverages & Tea",
+    "origin": "London, United Kingdom (Authentic)",
+    "subtitle": "Delicate spring-picked green tea infused with natural fragrant jasmine blossoms.",
+    "description": "Expertly blended pure green tea scented with sweet, fragrant jasmine blossoms. Light, floral, and deeply refreshing, providing a calm antioxidant boost for everyday wellness.",
+    "teas": [],
+    "ingredients": [
+      "Selected Green Tea",
+      "Natural Jasmine Flavoring & Blossom Petals"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Twinings"
+  },
+  {
+    "id": "nm-fd-7",
+    "name": "Natural Himalayan Pink Rock Salt Fine Ground (1kg Shaker Jar)",
+    "price": "৳380",
+    "originalPrice": "৳480",
+    "image": "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=800&auto=format&fit=crop&q=80",
+    "collection": "Gourmet Foods & Agro",
+    "priceNum": 380,
+    "category": "Spices & Seasoning",
+    "origin": "Khewra Salt Mines, Punjab",
+    "subtitle": "Unrefined ancient crystal mineral salt containing 84+ essential trace minerals.",
+    "description": "Mined from ancient mineral deposits at the foothills of the Himalayas. 100% natural, unbleached, and free from microplastics or chemical anticaking agents. Adds smooth, balanced flavor to culinary dishes.",
+    "teas": [],
+    "ingredients": [
+      "100% Natural Himalayan Pink Mineral Rock Salt"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Natural Salt Co."
+  },
+  {
+    "id": "nm-hw-1",
+    "name": "Optimum Nutrition Gold Standard 100% Whey Protein (Double Rich Chocolate, 2 lbs)",
+    "price": "৳5,400",
+    "originalPrice": "৳6,200",
+    "image": "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?w=800&auto=format&fit=crop&q=80",
+    "collection": "Health, Wellness & Fitness",
+    "priceNum": 5400,
+    "category": "Sports Nutrition",
+    "origin": "USA (Original Authenticity Code Verification)",
+    "subtitle": "24g premium whey protein isolates, 5.5g naturally occurring BCAAs per serving.",
+    "description": "The world's #1 selling whey protein powder. Formulated with whey protein isolates as the primary ingredient to help build lean muscle, accelerate athletic recovery, and support everyday nutritional goals.",
+    "teas": [],
+    "ingredients": [
+      "Whey Protein Isolate & Concentrate",
+      "5.5g Naturally Occurring BCAAs",
+      "4g Glutamine & Glutamic Acid per Scoop"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Optimum Nutrition"
+  },
+  {
+    "id": "nm-hw-2",
+    "name": "Centrum Adult Complete Multivitamin & Mineral Tablets (130 Tablets)",
+    "price": "৳2,350",
+    "originalPrice": "৳2,750",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800&auto=format&fit=crop&q=80",
+    "collection": "Health, Wellness & Fitness",
+    "priceNum": 2350,
+    "category": "Daily Supplements",
+    "origin": "USA / Canada",
+    "subtitle": "Daily micronutrient formula packed with 23 key vitamins and essential minerals.",
+    "description": "Clinically formulated with essential vitamins A, C, D3, E, Zinc, and B-complex to support daily physical energy, healthy immune function, eye health, and metabolic performance.",
+    "teas": [],
+    "ingredients": [
+      "Vitamin A, C, D3, E, K",
+      "Complete B-Complex (B1, B2, B6, B12, Biotin)",
+      "Iron, Zinc, Calcium & Magnesium"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Centrum"
+  },
+  {
+    "id": "nm-hw-3",
+    "name": "Nature Made Triple Strength Fish Oil Omega-3 1200mg (120 Softgels)",
+    "price": "৳2,850",
+    "originalPrice": "৳3,300",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800&auto=format&fit=crop&q=80",
+    "collection": "Health, Wellness & Fitness",
+    "priceNum": 2850,
+    "category": "Heart & Brain Health",
+    "origin": "USA (USP Verified Dietary Supplement)",
+    "subtitle": "Purified deep ocean wild fish oil providing 720mg active EPA & DHA fatty acids.",
+    "description": "Molecularly distilled to remove mercury, PCBs, and heavy metals. Helps maintain healthy heart rhythm, supports cardiovascular flexibility, enhances joint comfort, and promotes sharp cognitive brain function.",
+    "teas": [],
+    "ingredients": [
+      "1200mg Fish Oil Concentrate (720mg EPA + DHA)",
+      "Burp-Free Enteric Coating",
+      "Gluten-Free, No Artificial Dyes"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Nature Made"
+  },
+  {
+    "id": "nm-hw-4",
+    "name": "Omron Automatic Upper Arm Digital Blood Pressure Monitor (HEM-7120)",
+    "price": "৳3,650",
+    "originalPrice": "৳4,200",
+    "image": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=800&auto=format&fit=crop&q=80",
+    "collection": "Health, Wellness & Fitness",
+    "priceNum": 3650,
+    "category": "Home Health Devices",
+    "origin": "Kyoto, Japan (3-Year Official Brand Warranty)",
+    "subtitle": "Intellisense technology with one-touch measurement and hypertension indicator.",
+    "description": "Japanese precision clinical blood pressure monitor for home health tracking. Features irregular heartbeat detection, cuff wrapping guide, body movement sensor, and last memory recall for peace of mind.",
+    "teas": [],
+    "ingredients": [
+      "Digital BP Unit + Standard Cuff (22-32 cm)",
+      "4 AA Alkaline Batteries Included",
+      "CE & Japanese Medical Standard Certified"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Omron"
+  },
+  {
+    "id": "nm-hw-5",
+    "name": "Accu-Chek Active Blood Glucose Monitor Kit (with 50 Test Strips)",
+    "price": "৳2,150",
+    "originalPrice": "৳2,500",
+    "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=800&auto=format&fit=crop&q=80",
+    "collection": "Health, Wellness & Fitness",
+    "priceNum": 2150,
+    "category": "Home Health Devices",
+    "origin": "Mannheim, Germany (Roche Diabetes Care)",
+    "subtitle": "Accurate blood sugar results in 5 seconds with tiny blood sample requirement.",
+    "description": "Accurate, hassle-free glucometer kit designed for painless blood sugar testing at home. Features 500-result memory tracking, 7/14/30/90-day averages, and visual double-check strip window.",
+    "teas": [],
+    "ingredients": [
+      "Accu-Chek Active Meter",
+      "50 Roche Active Strips Pack Included",
+      "Softclix Lancing Device with Lancets"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Accu-Chek"
+  },
+  {
+    "id": "nm-hw-6",
+    "name": "High-Density Non-Slip Eco Yoga Mat with Carry Strap (6mm Cushioning)",
+    "price": "৳1,450",
+    "originalPrice": "৳1,850",
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=800&auto=format&fit=crop&q=80",
+    "collection": "Health, Wellness & Fitness",
+    "priceNum": 1450,
+    "category": "Workout & Fitness",
+    "origin": "Imported Eco-Friendly TPE",
+    "subtitle": "Dual-sided textured grip yoga mat offering joint protection and non-slip floor stability.",
+    "description": "Constructed with premium odorless TPE material that cushions spine, hips, knees, and elbows on hard floors. Dual-sided non-slip texture keeps your hands firmly rooted during sweaty workouts.",
+    "teas": [],
+    "ingredients": [
+      "100% Recyclable Biodegradable TPE",
+      "6mm High Rebound Density",
+      "Free Shoulder Carry Strap Included"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Active"
+  },
+  {
+    "id": "nm-hw-7",
+    "name": "Deep Tissue Percussion Muscle Massage Gun (6-Speed, 4 Attachments)",
+    "price": "৳3,850",
+    "originalPrice": "৳4,600",
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&auto=format&fit=crop&q=80",
+    "collection": "Health, Wellness & Fitness",
+    "priceNum": 3850,
+    "category": "Recovery & Therapy",
+    "origin": "Original Tech Import",
+    "subtitle": "High-torque quiet brushless motor for quick muscle pain and fatigue relief.",
+    "description": "Engineered for athletes and everyday office professionals suffering from neck, back, or leg tightness. Delivers up to 3200 RPM deep percussive pulses with ultra-quiet motor technology and 4 hours battery life.",
+    "teas": [],
+    "ingredients": [
+      "Brushless 24V Ultra-Quiet Motor",
+      "4 Specialized Therapy Heads",
+      "2500mAh Rechargeable Lithium Battery"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "HyperVolt Series"
+  },
+  {
+    "id": "nm-wa-1",
+    "name": "Casio Edifice Sapphire Chronograph Quartz Watch (EFB-680D-1AV)",
+    "price": "৳14,500",
+    "originalPrice": "৳17,000",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=800&auto=format&fit=crop&q=80",
+    "collection": "Watches & Premium Accessories",
+    "priceNum": 14500,
+    "category": "Men's Luxury Watches",
+    "origin": "Tokyo, Japan (Authentic Casio Packaging)",
+    "subtitle": "Scratch-resistant sapphire crystal with solid stainless steel octagonal bezel.",
+    "description": "Sporty yet sophisticated Japanese chronograph timepiece. Built with virtually scratch-proof sapphire crystal glass, 100-meter water resistance, precision 1/10-second stopwatch, and solid stainless steel link bracelet.",
+    "teas": [],
+    "ingredients": [
+      "Scratch-Resistant Sapphire Crystal Glass",
+      "Solid Stainless Steel Case & Band",
+      "100M Water Resistance (10 Bar)"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Casio"
+  },
+  {
+    "id": "nm-wa-2",
+    "name": "Fossil Grant Chronograph Navy Blue Leather Watch (FS4835)",
+    "price": "৳12,800",
+    "originalPrice": "৳15,000",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=800&auto=format&fit=crop&q=80",
+    "collection": "Watches & Premium Accessories",
+    "priceNum": 12800,
+    "category": "Men's Luxury Watches",
+    "origin": "Richardson, Texas, USA",
+    "subtitle": "Vintage-inspired Roman numeral dial with rose gold accents and genuine leather strap.",
+    "description": "The quintessential gentleman's dress chronograph. Features a handsome midnight blue sunray dial framed in a polished rose gold stainless steel case, paired with a supple genuine calfskin leather strap.",
+    "teas": [],
+    "ingredients": [
+      "44mm Rose Gold Tone Stainless Steel Case",
+      "100% Genuine Calfskin Leather Strap (22mm)",
+      "50M Water Resistance Rating"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Fossil"
+  },
+  {
+    "id": "nm-wa-3",
+    "name": "Ray-Ban Classic Aviator Gradient Sunglasses (RB3025 Gold / Brown)",
+    "price": "৳11,500",
+    "originalPrice": "৳13,800",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&auto=format&fit=crop&q=80",
+    "collection": "Watches & Premium Accessories",
+    "priceNum": 11500,
+    "category": "Eyewear & Sunglasses",
+    "origin": "Milan, Italy (Luxottica Group Import)",
+    "subtitle": "Timeless teardrop pilot shape with 100% UV400 crystal gradient glass lenses.",
+    "description": "Originally designed in 1937 for US aviators, the iconic Ray-Ban Aviator delivers unmistakable style and optimal clarity. Features lightweight gold wireframe construction and gradient crystal lenses with laser-etched RB signature.",
+    "teas": [],
+    "ingredients": [
+      "High Quality Monel Metal Gold Frame",
+      "100% UV400 Protective Crystal Mineral Lenses",
+      "Includes Original Leather Case & Microfiber Cloth"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Ray-Ban"
+  },
+  {
+    "id": "nm-wa-4",
+    "name": "Handcrafted Full-Grain Vegetable-Tanned Leather Bi-Fold Wallet",
+    "price": "৳1,650",
+    "originalPrice": "৳2,100",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800&auto=format&fit=crop&q=80",
+    "collection": "Watches & Premium Accessories",
+    "priceNum": 1650,
+    "category": "Leather Goods & Wallets",
+    "origin": "Hazaribagh Artisan Workshop, Bangladesh",
+    "subtitle": "Slim silhouette with RFID-blocking lining, 8 card slots, and rich patina leather.",
+    "description": "Crafted by master leather artisans from 100% vegetable-tanned full-grain cowhide leather that ages gracefully over time. Built with specialized RFID-blocking woven mesh to safeguard your credit cards from unauthorized scans.",
+    "teas": [],
+    "ingredients": [
+      "100% Full-Grain Vegetable-Tanned Cowhide",
+      "Integrated RFID Radiation Blocking Liner",
+      "8 Dedicated Card Slots + Dual Bill Compartments"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Artisan"
+  },
+  {
+    "id": "nm-wa-5",
+    "name": "Automatic Ratchet Genuine Leather Formal Dress Belt (Classic Black)",
+    "price": "৳1,250",
+    "originalPrice": "৳1,600",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=80",
+    "collection": "Watches & Premium Accessories",
+    "priceNum": 1250,
+    "category": "Men's Belts & Ties",
+    "origin": "Export Leather Craft",
+    "subtitle": "Holeless slide micro-adjustment buckle for effortless custom fit and comfort.",
+    "description": "Say goodbye to stretched holes. This modern formal belt features a 32-position hidden ratchet track allowing 1/4-inch micro adjustments throughout the day. Finished with sleek scratch-resistant alloy buckle.",
+    "teas": [],
+    "ingredients": [
+      "Genuine Top-Grain Cowhide Leather (35mm Width)",
+      "Zinc Alloy Scratch-Resistant Ratchet Buckle",
+      "Easy Trim-to-Fit Custom Sizing"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Studio"
+  },
+  {
+    "id": "nm-wa-6",
+    "name": "Tissot PRX Powermatic 80 Blue Dial Automatic Watch (T137.407.11.041.00)",
+    "price": "৳68,500",
+    "originalPrice": "৳75,000",
+    "image": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?w=800&auto=format&fit=crop&q=80",
+    "collection": "Watches & Premium Accessories",
+    "priceNum": 68500,
+    "category": "Men's Luxury Watches",
+    "origin": "Le Locle, Switzerland (Swiss Made)",
+    "subtitle": "80 hours power reserve, integrated stainless steel bracelet, and waffle textured dial.",
+    "description": "The global horology sensation with 1978 retro luxury DNA. Powered by the groundbreaking Swiss Powermatic 80 calibre with anti-magnetic Nivachron balance spring, exhibition sapphire caseback, and 100m water resistance.",
+    "teas": [],
+    "ingredients": [
+      "Swiss Made Powermatic 80.111 Movement (80-Hr Reserve)",
+      "Scratch-Resistant Sapphire Crystal with AR Coating",
+      "316L Integrated Stainless Steel Bracelet"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Tissot"
+  },
+  {
+    "id": "nm-wa-7",
+    "name": "Seiko 5 Sports Automatic Steel Watch (Black Dial, SRPD55K1)",
+    "price": "৳27,500",
+    "originalPrice": "৳31,000",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80",
+    "collection": "Watches & Premium Accessories",
+    "priceNum": 27500,
+    "category": "Men's Luxury Watches",
+    "origin": "Tokyo, Japan",
+    "subtitle": "Calibre 4R36 automatic movement with day-date display and LumiBrite hands.",
+    "description": "Legendary Japanese automatic sports watch. Equipped with Seiko's robust in-house 4R36 movement with manual winding and hacking seconds, uni-directional rotating dive bezel, and see-through case back.",
+    "teas": [],
+    "ingredients": [
+      "Seiko 24-Jewel 4R36 Automatic Movement",
+      "Hardlex Crystal & Lumibrite Glow on Hands/Markers",
+      "100M Water Resistant Solid Steel Construction"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Seiko"
+  },
+  {
+    "id": "nm-sk-11",
+    "name": "SK-II Facial Treatment Essence with Pitera (160ml Glass Bottle)",
+    "price": "৳17,500",
+    "originalPrice": "৳19,800",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=800&auto=format&fit=crop&q=80",
+    "collection": "Skin Care & Beauty",
+    "priceNum": 17500,
+    "category": "Essence & Serum",
+    "origin": "Tokyo, Japan (Original Import)",
+    "subtitle": "Over 90% pure Pitera bio-ingredient for crystal clear glowing transformation.",
+    "description": "SK-II's signature and most-awarded miracle water. Unchanged for more than 40 years, this powerful essence containing over 90% Pitera works gently to moderate the skin's surface renewal cycle.",
+    "teas": [],
+    "ingredients": [
+      "Galactomyces Ferment Filtrate (Pitera™)",
+      "50+ Micro-Nutrients, Peptides and Organic Acids",
+      "Colorant-Free, Fragrance-Free Formulation"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "SK-II"
+  },
+  {
+    "id": "nm-sk-12",
+    "name": "Neutrogena Hydro Boost Water Gel Hyaluronic Acid (50g)",
+    "price": "৳1,450",
+    "originalPrice": "৳1,750",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
+    "collection": "Skin Care & Beauty",
+    "priceNum": 1450,
+    "category": "Moisturizers",
+    "origin": "USA / France",
+    "subtitle": "Oil-free gel moisturizer that instantly quenches dry skin and locks in moisture for 48 hours.",
+    "description": "Award-winning lightweight gel moisturiser infused with purified hyaluronic acid. Absorbs instantly into skin like a refreshing drink of water, leaving complexions plumper, supple, and shine-free all day.",
+    "teas": [],
+    "ingredients": [
+      "Purified Hyaluronic Acid",
+      "Olive Extract Protective Barrier",
+      "Non-Comedogenic, Oil-Free, Dye-Free"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Neutrogena"
+  },
+  {
+    "id": "nm-sk-13",
+    "name": "Laneige Lip Sleeping Mask Berry Hydrating Overnight Treatment (20g)",
+    "price": "৳1,650",
+    "originalPrice": "৳1,950",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&auto=format&fit=crop&q=80",
+    "collection": "Skin Care & Beauty",
+    "priceNum": 1650,
+    "category": "Lip Care",
+    "origin": "Seoul, South Korea (Amorepacific)",
+    "subtitle": "Overnight leave-on lip mask rich in Vitamin C and Berry Fruit Complex.",
+    "description": "Cult-favorite Korean leave-on lip mask that soothes and moisturizes for visibly smoother, baby-soft lips. Features Moisture Wrap™ technology with hyaluronic acid to hold in active ingredients overnight.",
+    "teas": [],
+    "ingredients": [
+      "Berry Fruit Complex™ with Antioxidants",
+      "Vitamin C & Coconut Oil Moisturizing Matrix",
+      "Dermatologically Tested"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Laneige"
+  },
+  {
+    "id": "nm-sk-14",
+    "name": "Kiehl's Ultra Facial Cream 24-Hour Daily Hydration (50ml Jar)",
+    "price": "৳4,200",
+    "originalPrice": "৳4,900",
+    "image": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=800&auto=format&fit=crop&q=80",
+    "collection": "Skin Care & Beauty",
+    "priceNum": 4200,
+    "category": "Moisturizers",
+    "origin": "New York, USA",
+    "subtitle": "Iconic lightweight facial cream with Squalane for 2.3x immediate moisture boost.",
+    "description": "Kiehl's #1 global face cream formulated with renewable Glacial Glycoprotein and olive-derived Squalane. Strengthens skin's moisture barrier and protects even in harsh AC environments.",
+    "teas": [],
+    "ingredients": [
+      "Olive-Derived Squalane",
+      "Glacial Glycoprotein Antarticine",
+      "Fragrance-Free, Paraben-Free Formula"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Kiehl's"
+  },
+  {
+    "id": "nm-el-9",
+    "name": "Apple iPad 10th Generation 64GB Wi-Fi (10.9-Inch Liquid Retina Display)",
+    "price": "৳46,500",
+    "originalPrice": "৳51,000",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&auto=format&fit=crop&q=80",
+    "collection": "Digital Electronics",
+    "priceNum": 46500,
+    "category": "Tablets & iPads",
+    "origin": "California, USA (1-Year Apple International Warranty)",
+    "subtitle": "A14 Bionic chip, 12MP Ultra Wide front camera with Center Stage, and USB-C.",
+    "description": "Redesigned with an all-screen 10.9-inch Liquid Retina display, the powerful A14 Bionic chip, USB-C connectivity, and Touch ID on the top button. Perfect for creative work, studying, streaming, and productivity.",
+    "teas": [],
+    "ingredients": [
+      "10.9-inch Liquid Retina True Tone Display",
+      "Apple A14 Bionic 6-Core CPU & 4-Core GPU",
+      "Supports Apple Pencil & Magic Keyboard Folio"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Apple"
+  },
+  {
+    "id": "nm-el-10",
+    "name": "JBL Flip 6 Portable Waterproof Bluetooth Speaker (Bold 2-Way Audio)",
+    "price": "৳12,500",
+    "originalPrice": "৳14,800",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&auto=format&fit=crop&q=80",
+    "collection": "Digital Electronics",
+    "priceNum": 12500,
+    "category": "Audio & Speakers",
+    "origin": "Original JBL Harman Import",
+    "subtitle": "IP67 waterproof and dustproof with 12 hours playtime and PartyBoost linking.",
+    "description": "The beat goes on with the JBL Flip 6 2-way speaker system. Engineered to deliver loud, crystal clear, powerful audio with racetrack-shaped woofer, separate tweeter, and dual pumping passive radiators.",
+    "teas": [],
+    "ingredients": [
+      "IP67 Waterproof & Dustproof Construction",
+      "12 Hours Battery Playtime on Single Charge",
+      "JBL PartyBoost Multi-Speaker Pairing"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "JBL"
+  },
+  {
+    "id": "nm-el-11",
+    "name": "Logitech MX Master 3S Wireless Performance Mouse (8K DPI, Quiet Clicks)",
+    "price": "৳11,800",
+    "originalPrice": "৳13,500",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&auto=format&fit=crop&q=80",
+    "collection": "Digital Electronics",
+    "priceNum": 11800,
+    "category": "Computer Accessories",
+    "origin": "Lausanne, Switzerland",
+    "subtitle": "Any-surface 8000 DPI tracking on glass with MagSpeed electromagnetic wheel.",
+    "description": "The ultimate productivity mouse reimagined with Quiet Click technology that reduces 90% click noise while maintaining satisfying tactile feel. MagSpeed scroll wheel scrolls 1000 lines in a second.",
+    "teas": [],
+    "ingredients": [
+      "8000 DPI Darkfield Sensor (Tracks on Glass)",
+      "MagSpeed Electromagnetic SmartScroll Wheel",
+      "Connect Up to 3 Devices via Bluetooth & Logi Bolt"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Logitech"
+  },
+  {
+    "id": "nm-el-12",
+    "name": "Kindle Paperwhite 16GB (6.8-Inch Glare-Free Display, Warm Light)",
+    "price": "৳18,500",
+    "originalPrice": "৳21,000",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80",
+    "collection": "Digital Electronics",
+    "priceNum": 18500,
+    "category": "E-Readers",
+    "origin": "Seattle, USA",
+    "subtitle": "300 ppi glare-free display that reads like real paper even in direct sunlight.",
+    "description": "Designed specifically for book lovers. Features an adjustable warm light from white to amber, 10 weeks of battery life on a single USB-C charge, and 20% faster page turns. IPX8 waterproof for reading anywhere.",
+    "teas": [],
+    "ingredients": [
+      "6.8-inch 300 PPI High-Res Paperwhite Screen",
+      "Adjustable Amber Warm Light & Dark Mode",
+      "IPX8 Waterproof Protection (Bath & Pool Safe)"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Amazon"
+  },
+  {
+    "id": "nm-pf-11",
+    "name": "Maison Francis Kurkdjian Baccarat Rouge 540 EDP (70ml)",
+    "price": "৳36,500",
+    "originalPrice": "৳41,000",
+    "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&auto=format&fit=crop&q=80",
+    "collection": "Perfumes & Fragrances",
+    "priceNum": 36500,
+    "category": "Niche Luxury Perfumes",
+    "origin": "Paris, France (100% Guaranteed Authentic Import)",
+    "subtitle": "Unforgettable luminous woody amber sillage with jasmine, saffron, and cedarwood.",
+    "description": "One of the most legendary niche perfumes in modern history. An intimate, poetic alchemy where the aerial notes of jasmine and the radiance of saffron carry mineral facets of ambergris and woody tones of freshly cut cedar.",
+    "teas": [],
+    "ingredients": [
+      "Top: Jasmine Grandiflorum, Saffron",
+      "Heart: Bitter Almond, Cedarwood",
+      "Base: Ambergris Mineral Accord, Woody Musk"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Maison Francis Kurkdjian"
+  },
+  {
+    "id": "nm-pf-12",
+    "name": "Armaf Club De Nuit Intense Man EDT for Men (105ml)",
+    "price": "৳3,850",
+    "originalPrice": "৳4,500",
+    "image": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&auto=format&fit=crop&q=80",
+    "collection": "Perfumes & Fragrances",
+    "priceNum": 3850,
+    "category": "Men's Designer Fragrances",
+    "origin": "Dubai, UAE (Sterling Parfums)",
+    "subtitle": "Smoky birch, blackcurrant, and citrus woody fragrance with beast-mode longevity.",
+    "description": "The worldwide champion of compliments. A provocative woody spicy scent opens with fresh fruity notes of lemon, apple, and blackcurrant leading to its opulent smoky floral heart of birch and jasmine.",
+    "teas": [],
+    "ingredients": [
+      "Top: Lemon, Pineapple, Blackcurrant, Apple",
+      "Heart: Birch, Jasmine, Rose",
+      "Base: Musk, Ambergris, Patchouli, Vanilla"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Armaf"
+  },
+  {
+    "id": "nm-pf-9",
+    "name": "Yves Saint Laurent Y Eau De Parfum for Men (100ml)",
+    "price": "৳15,800",
+    "originalPrice": "৳18,000",
+    "image": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?w=800&auto=format&fit=crop&q=80",
+    "collection": "Perfumes & Fragrances",
+    "priceNum": 15800,
+    "category": "Men's Designer Fragrances",
+    "origin": "Neuilly-sur-Seine, France",
+    "subtitle": "Crisp green apple, aromatic sage, and intense sensual woody amber.",
+    "description": "A bold, intense men's cologne representing modern masculinity. Crisp bergamot and spicy ginger are sharpened by an apple accord, contrasting with elegant sage and rich cedarwood.",
+    "teas": [],
+    "ingredients": [
+      "Top: Apple Accord, Bergamot, Ginger",
+      "Heart: Sage, Geranium, Juniper Berries",
+      "Base: Amberwood, Tonka Bean, Cedar, Vetiver"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1547887537-6158d64c35b3?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "YSL"
+  },
+  {
+    "id": "nm-fw-6",
+    "name": "New Balance 574 Core Classic Retro Sneakers (Grey / White)",
+    "price": "৳10,500",
+    "originalPrice": "৳12,500",
+    "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=800&auto=format&fit=crop&q=80",
+    "collection": "Footwear & Shoes",
+    "priceNum": 10500,
+    "category": "Sneakers & Athletic",
+    "origin": "Boston, USA (Authentic NB)",
+    "subtitle": "Iconic ENCAP midsole cushioning with premium suede and breathable mesh upper.",
+    "description": "The most iconic New Balance shoe ever made. Created as a reliable hybrid road-and-trail design, the 574 features time-tested ENCAP midsole cushioning that delivers lightweight all-day comfort.",
+    "teas": [],
+    "ingredients": [
+      "Suede Leather and Breathable Mesh Upper",
+      "ENCAP Soft EVA Core Cushioning with Tough Polyurethane Rim",
+      "Durable Carbon Rubber Lugged Outsole"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "New Balance"
+  },
+  {
+    "id": "nm-fw-7",
+    "name": "Puma Softride Rift Lightweight Slip-On Running Shoes",
+    "price": "৳5,800",
+    "originalPrice": "৳6,900",
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&auto=format&fit=crop&q=80",
+    "collection": "Footwear & Shoes",
+    "priceNum": 5800,
+    "category": "Sneakers & Athletic",
+    "origin": "Herzogenaurach, Germany",
+    "subtitle": "SOFTRIDE foam technology with bootie construction for effortless slip-on comfort.",
+    "description": "Engineered with Puma's plush SOFTRIDE foam midsole for extreme everyday cushioning. Features an elastic slip-on collar, zoned rubber traction pods, and bold athletic branding.",
+    "teas": [],
+    "ingredients": [
+      "Breathable Knit Textile Upper",
+      "SOFTRIDE Cushion Foam with SoftFoam+ Sockliner",
+      "Non-Marking Zoned Rubber Traction Outsole"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Puma"
+  },
+  {
+    "id": "nm-cl-11",
+    "name": "Executive Italian Cut Tailored Pure Wool Winter Overcoat (Camel)",
+    "price": "৳8,500",
+    "originalPrice": "৳10,500",
+    "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=800&auto=format&fit=crop&q=80",
+    "collection": "Clothing & Fashion",
+    "priceNum": 8500,
+    "category": "Men's Outerwear",
+    "origin": "Tailored Export Craft",
+    "subtitle": "Heavyweight structured wool blend overcoat with notched lapel and satin lining.",
+    "description": "Command attention in boardrooms and winter evening occasions. Tailored from a substantial wool-cashmere blend with structured padded shoulders, deep internal ticket pockets, and double back vents.",
+    "teas": [],
+    "ingredients": [
+      "70% Wool, 10% Cashmere, 20% Microfiber",
+      "Full Interior Silk-Satin Lining",
+      "Horn Button Closure + Double Welt Pockets"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "NovaMart Studio"
+  },
+  {
+    "id": "nm-fw-3",
+    "name": "Casual Canvas Shoes",
+    "price": "৳3,200",
+    "originalPrice": "৳4,000",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&auto=format&fit=crop&q=80",
+    "collection": "Footwear & Shoes",
+    "priceNum": 3200,
+    "category": "Footwear & Shoes",
+    "origin": "Vietnam (100% Authentic Import)",
+    "subtitle": "Breathable low-top canvas sneakers with vulcanized rubber sole and everyday cushioning.",
+    "description": "Casual Canvas Sneakers — a premium footwear piece from Adidas, crafted for style and all-day comfort. Features a breathable dual-layer canvas upper, cushioned vulcanized rubber outsole, reinforced heel cup, and iconic low-profile silhouette suitable for daily street-ready wear.",
+    "teas": [],
+    "ingredients": [
+      "Dual-Layer Breathable Canvas Upper",
+      "Vulcanized High-Grip Rubber Outsole",
+      "Reinforced Heel Counter and Padded Collar"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Adidas"
+  },
+  {
+    "id": "nm-fw-4",
+    "name": "Leather Chelsea Boots",
+    "price": "৳5,200",
+    "originalPrice": "৳6,500",
+    "image": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=800&auto=format&fit=crop&q=80",
+    "collection": "Footwear & Shoes",
+    "priceNum": 5200,
+    "category": "Footwear & Shoes",
+    "origin": "Spain / Portugal (100% Authentic Import)",
+    "subtitle": "Classic sleek silhouette ankle Chelsea boots crafted from smooth burnished cowhide leather.",
+    "description": "Zara Men Chelsea boots featuring elasticated side gores, a durable pull tab, and a cushioned crepe-textured outsole. Versatile design suitable for casual denim or formal tailored trousers.",
+    "teas": [],
+    "ingredients": [
+      "100% Full-Grain Cowhide Leather",
+      "Flexible Elastic Side Panels",
+      "Cushioned Crepe-Textured Rubber Sole"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Zara"
+  },
+  {
+    "id": "nm-fw-5",
+    "name": "Air Running Sneakers",
+    "price": "৳7,500",
+    "originalPrice": "৳9,500",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=80",
+    "collection": "Footwear & Shoes",
+    "priceNum": 7500,
+    "category": "Footwear & Shoes",
+    "origin": "Vietnam (100% Authentic Import)",
+    "subtitle": "Responsive workhorse running shoes with dual Zoom Air units and engineered mesh upper.",
+    "description": "The Nike Air Running Sneakers offer a springy ride for every run, familiar feel just for you. This version has the same responsiveness and neutral support you love, with improved comfort in sensitive areas like the arch and toes.",
+    "teas": [],
+    "ingredients": [
+      "Engineered Single-Layer Mesh Upper",
+      "Nike React Foam Midsole",
+      "Dual Forefoot & Heel Zoom Air Units"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Nike"
+  },
+  {
+    "id": "nm-fw-8",
+    "name": "Classic Stan Smith",
+    "price": "৳6,800",
+    "originalPrice": "৳8,000",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&auto=format&fit=crop&q=80",
+    "collection": "Footwear & Shoes",
+    "priceNum": 6800,
+    "category": "Footwear & Shoes",
+    "origin": "Vietnam (100% Authentic Import)",
+    "subtitle": "Timeless tennis-inspired sneaker with smooth full-grain leather upper and perforated 3-Stripes.",
+    "description": "Originally created for tennis star Stan Smith in 1971, this iconic sneaker has stood the test of time. Features a premium leather upper, signature green heel tab, perforated 3-Stripes, and an OrthoLite sockliner for comfort and performance.",
+    "teas": [],
+    "ingredients": [
+      "Premium Full-Grain Leather Upper",
+      "Durable Vulcanized Rubber Outsole",
+      "Moisture-Wicking OrthoLite Insole"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Adidas"
+  },
+  {
+    "id": "nm-fw-9",
+    "name": "Clarks Tilden Cap Oxford Shoes",
+    "price": "৳6,200",
+    "originalPrice": "৳7,800",
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&auto=format&fit=crop&q=80",
+    "collection": "Footwear & Shoes",
+    "priceNum": 6200,
+    "category": "Footwear & Shoes",
+    "origin": "India / UK (100% Authentic Import)",
+    "subtitle": "Refined formal dress oxford shoes with OrthoLite footbed and subtle stretch gore.",
+    "description": "A sharp cap toe oxford crafted with rich leather uppers, discreet elastic gore for a custom fit, and an impact-absorbing OrthoLite footbed that ensures comfort throughout long corporate days.",
+    "teas": [],
+    "ingredients": [
+      "100% Genuine Full-Grain Leather Upper",
+      "OrthoLite Cushion Soft Technology Footbed",
+      "Durable Non-Marking TPR Outsole"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Clarks"
+  },
+  {
+    "id": "nm-fw-10",
+    "name": "Converse Chuck Taylor All Star",
+    "price": "৳3,800",
+    "originalPrice": "৳4,600",
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&auto=format&fit=crop&q=80",
+    "collection": "Footwear & Shoes",
+    "priceNum": 3800,
+    "category": "Footwear & Shoes",
+    "origin": "Vietnam (100% Authentic Import)",
+    "subtitle": "The world's most iconic sneaker with lightweight canvas and ankle patch.",
+    "description": "The Chuck Taylor All Star is the quintessential everyday shoe. Lightweight durable canvas upper, medial eyelets for airflow, and the classic diamond pattern rubber sole for traction and signature street style.",
+    "teas": [],
+    "ingredients": [
+      "Lightweight Durable Canvas Upper",
+      "Medial Airflow Eyelets",
+      "Classic Diamond Pattern Rubber Outsole"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Converse"
+  },
+  {
+    "id": "nm-cl-9",
+    "name": "Levi's 511 Slim Fit Stretch Denim Jeans",
+    "price": "৳2,800",
+    "originalPrice": "৳3,500",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=80",
+    "collection": "Clothing & Fashion",
+    "priceNum": 2800,
+    "category": "Clothing & Fashion",
+    "origin": "Cambodia (100% Authentic Import)",
+    "subtitle": "Modern slim fit jeans with added stretch for all-day comfort and mobility.",
+    "description": "A modern slim with room to move, the 511 Slim Fit Stretch Jeans are a classic. These jeans are cut close to the body with 1% elastane for built-in recovery and comfortable flexibility throughout the day.",
+    "teas": [],
+    "ingredients": [
+      "99% Cotton, 1% Elastane Denim",
+      "Zip Fly with Metal Button Closure",
+      "Classic 5-Pocket Styling"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Levi's"
+  },
+  {
+    "id": "nm-bk-9",
+    "name": "Fisher-Price Deluxe Kick & Play Piano Baby Gym",
+    "price": "৳4,200",
+    "originalPrice": "৳5,200",
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=800&auto=format&fit=crop&q=80",
+    "collection": "Baby & Kids Products",
+    "priceNum": 4200,
+    "category": "Baby & Kids Products",
+    "origin": "USA (Imported Non-Toxic)",
+    "subtitle": "Multi-stage musical playmat with light-up piano keys and repositionable toys.",
+    "description": "With 4 ways to play as your baby grows (lay and play, tummy time, sit and play, and take along), this musical activity gym keeps little ones entertained with 65+ songs, sounds, tunes, and phrases.",
+    "teas": [],
+    "ingredients": [
+      "BPA-Free, Machine-Washable Soft Padded Mat",
+      "Smart Stages Learning Content",
+      "5 Repositionable Sensory Activity Toys"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Fisher-Price"
+  },
+  {
+    "id": "nm-bk-10",
+    "name": "Philips Avent Ultra Air Soother Pacifier Set (0-6m, 2-Pack)",
+    "price": "৳1,450",
+    "originalPrice": "৳1,800",
+    "image": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=800&auto=format&fit=crop&q=80",
+    "collection": "Baby & Kids Products",
+    "priceNum": 1450,
+    "category": "Baby & Kids Products",
+    "origin": "UK / Netherlands (Authentic Import)",
+    "subtitle": "Breathable pacifiers with extra-large air holes to keep sensitive baby skin dry.",
+    "description": "A light, breathable pacifier for sensitive baby skin. Philips Avent Ultra Air features extra-large air holes that let skin breathe, keeping it dry while soothing with a silky-soft textured silicone teat.",
+    "teas": [],
+    "ingredients": [
+      "100% Food-Grade Silicone Teat (BPA Free)",
+      "Orthodontic & Symmetrical Design",
+      "Includes Sterilizer & Carry Case"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Philips Avent"
+  },
+  {
+    "id": "nm-hl-9",
+    "name": "Philips Smart Wi-Fi LED Ambient Desk & Bedside Lamp",
+    "price": "৳3,400",
+    "originalPrice": "৳4,200",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80",
+    "collection": "Home & Living",
+    "priceNum": 3400,
+    "category": "Home & Living",
+    "origin": "Netherlands / Malaysia (Authentic Import)",
+    "subtitle": "App & touch-controlled 16M color ambient lighting with voice assistant integration.",
+    "description": "Bring warm ambiance to any bedroom or study setup. Offers 16 million colors, customizable circadian rhythm schedules, and seamless compatibility with Google Home and Alexa via Wi-Fi.",
+    "teas": [],
+    "ingredients": [
+      "Energy-Efficient 9W LED Module (800 Lumens)",
+      "WiZ App Connected (No Hub Required)",
+      "Durable Matte Frosted Diffuser"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Philips"
+  },
+  {
+    "id": "nm-hl-10",
+    "name": "Dyson V8 Extra Cordless Stick Vacuum Cleaner",
+    "price": "৳38,500",
+    "originalPrice": "৳45,000",
+    "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&auto=format&fit=crop&q=80",
+    "collection": "Home & Living",
+    "priceNum": 38500,
+    "category": "Home & Living",
+    "origin": "UK / Malaysia (100% Authentic Import)",
+    "subtitle": "Engineered for homes with pets. Up to 40 minutes of fade-free cyclone suction.",
+    "description": "Lightweight cordless versatility with powerful Dyson suction. Powered by the Dyson digital motor V8, spinning at up to 107,000 rpm to create strong suction on carpets and hard floors with de-tangling Motorbar.",
+    "teas": [],
+    "ingredients": [
+      "Dyson Digital Motor V8 (115 AW Suction)",
+      "Advanced Whole-Machine HEPA Filtration",
+      "Up to 40 Minutes Run Time (Fade-Free)"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Dyson"
+  },
+  {
+    "id": "nm-fd-8",
+    "name": "Nescafe Gold Blend Rich & Smooth Instant Coffee (200g Glass Jar)",
+    "price": "৳1,650",
+    "originalPrice": "৳1,950",
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&auto=format&fit=crop&q=80",
+    "collection": "Gourmet Foods & Agro",
+    "priceNum": 1650,
+    "category": "Gourmet Foods & Agro",
+    "origin": "UK (100% Authentic Import)",
+    "subtitle": "Crafted with premium mountain-grown Arabica beans ground 10 times finer for smooth aroma.",
+    "description": "Nescafe Gold Blend is crafted with high-altitude Arabica beans roasted to golden perfection. Unlocks rich aroma and smooth, velvety taste in every cup of morning brew.",
+    "teas": [],
+    "ingredients": [
+      "100% Pure Soluble Arabica & Robusta Coffee Beans",
+      "Golden Roasted Micro-Ground Beans",
+      "Aroma-Lock Glass Jar Seal"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Nescafe"
+  },
+  {
+    "id": "nm-fd-9",
+    "name": "Barilla Collezione Italian Penne Rigate Durum Wheat Pasta (500g)",
+    "price": "৳450",
+    "originalPrice": "৳550",
+    "image": "https://images.unsplash.com/photo-1551462147-ff29053bfc14?w=800&auto=format&fit=crop&q=80",
+    "collection": "Gourmet Foods & Agro",
+    "priceNum": 450,
+    "category": "Gourmet Foods & Agro",
+    "origin": "Italy (Product of Parma)",
+    "subtitle": "Artisanal bronze-cut durum wheat pasta designed to hold rich tomato and cream sauces.",
+    "description": "Barilla Collezione Penne Rigate is crafted from the highest quality non-GMO durum wheat semolina. Bronze-die cut produces a rough surface that holds sauce beautifully for authentic al dente texture.",
+    "teas": [],
+    "ingredients": [
+      "100% Non-GMO Durum Wheat Semolina",
+      "Traditional Italian Bronze-Cut Mold",
+      "Non-Sticky, Perfect Al Dente Texture"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1551462147-ff29053bfc14?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1612927601601-6638404737ce?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Barilla"
+  },
+  {
+    "id": "nm-hw-8",
+    "name": "Dymatize ISO100 Hydrolyzed 100% Whey Protein Isolate (Chocolate 5 lbs)",
+    "price": "৳11,500",
+    "originalPrice": "৳13,800",
+    "image": "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?w=800&auto=format&fit=crop&q=80",
+    "collection": "Health, Wellness & Fitness",
+    "priceNum": 11500,
+    "category": "Health, Wellness & Fitness",
+    "origin": "USA (Informed-Choice Certified)",
+    "subtitle": "Ultra-fast absorbing hydrolyzed whey isolate with 25g protein and 5.5g BCAAs per scoop.",
+    "description": "Dymatize ISO100 is formulated for rapid muscle recovery and lean gains. Multi-step microfiltration removes excess carbohydrates, fat, lactose, and cholesterol for clean athletic performance.",
+    "teas": [],
+    "ingredients": [
+      "Hydrolyzed Whey Protein Isolate & Whey Isolate",
+      "25g Protein, 5.5g BCAAs, <1g Sugar per Serving",
+      "Gluten-Free with Zero Added Amino Spiking"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Dymatize"
+  },
+  {
+    "id": "nm-wa-8",
+    "name": "Apple Watch Series 9 GPS 45mm Midnight Aluminum",
+    "price": "৳46,500",
+    "originalPrice": "৳52,000",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800&auto=format&fit=crop&q=80",
+    "collection": "Watches & Premium Accessories",
+    "priceNum": 46500,
+    "category": "Watches & Premium Accessories",
+    "origin": "USA / Vietnam (Official International Warranty)",
+    "subtitle": "S9 SiP chip, double tap gesture control, 2000-nit Always-On Retina OLED display.",
+    "description": "Apple Watch Series 9 delivers powerful health and fitness tracking with the new S9 SiP processor. Features magical double-tap navigation, advanced ECG, blood oxygen tracking, crash detection, and all-day battery life.",
+    "teas": [],
+    "ingredients": [
+      "45mm Lightweight 100% Recycled Aluminum Case",
+      "Always-On Retina LTPO OLED (Up to 2000 Nits)",
+      "Water Resistant to 50 Meters (Swimproof)"
+    ],
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80"
+    ],
+    "brand": "Apple"
+  }
+]

@@ -24,11 +24,22 @@ export class SettingsService {
     if (!setting) {
       setting = await this.prisma.setting.create({
         data: {
-          shopName: 'Trust Point Mart',
+          shopName: 'NovaMart',
+          slogan: "Bangladesh's Premier Multi-Category Online Store",
           currency: 'BDT',
           deliveryChargeInside: 60,
           deliveryChargeOutside: 120,
           deliveryChargeNearCity: 80,
+          contactNumber: [
+            { title: 'Hotline Support', value: '+880 1722-301927' },
+            { title: 'Customer Care', value: '01722301927' },
+          ],
+          socialContact: {
+            whatsapp: '8801722301927',
+            facebook: 'https://facebook.com/novamart.bd',
+            instagram: 'https://instagram.com/novamart.bd',
+            youtube: 'https://youtube.com/@novamartbd',
+          },
         },
       });
     }
