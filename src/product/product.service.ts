@@ -120,8 +120,36 @@ export class ProductService {
         { slug: { contains: query.search, mode: 'insensitive' } },
       ];
     }
-    if (query.brandId) where.brandId = query.brandId;
-    if (query.categoryId) where.categoryId = query.categoryId;
+    if (query.brandId) {
+      const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(query.brandId);
+      if (isUuid) {
+        where.brandId = query.brandId;
+      } else {
+        const cleanSlug = query.brandId.replace(/^b-/, '').toLowerCase();
+        where.brand = {
+          OR: [
+            { slug: { equals: query.brandId, mode: 'insensitive' } },
+            { slug: { equals: cleanSlug, mode: 'insensitive' } },
+            { name: { contains: cleanSlug.replace(/-/g, ' '), mode: 'insensitive' } },
+          ],
+        };
+      }
+    }
+    if (query.categoryId) {
+      const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(query.categoryId);
+      if (isUuid) {
+        where.categoryId = query.categoryId;
+      } else {
+        const cleanSlug = query.categoryId.replace(/^cat-/, '').toLowerCase();
+        where.category = {
+          OR: [
+            { slug: { equals: query.categoryId, mode: 'insensitive' } },
+            { slug: { equals: cleanSlug, mode: 'insensitive' } },
+            { name: { contains: cleanSlug.replace(/-/g, ' '), mode: 'insensitive' } },
+          ],
+        };
+      }
+    }
     if (query.status) where.status = query.status;
 
     const [data, total] = await Promise.all([
